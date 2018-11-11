@@ -23,8 +23,8 @@ Training Resources
 			</tr>
 			<tr>
 				<td>1</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/01_Intro">HTML/CSS, въведение</a></td>
-				<td>11.11.2018</td>
+				<td><a href="">HTML/CSS, въведение</a></td>
+				<td>14-15.11.2018</td>
 			</tr>
 		</tbody>
 	</table>
