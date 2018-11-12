@@ -104,7 +104,7 @@ Training Resources
 			<tr>
 				<td>1</td>
 				<td><a href="">представяне на проекти</a></td>
-				<td>13.01.2019</td>
+				<td>20.01.2019</td>
 			</tr>
 		</tbody>
 	</table>
