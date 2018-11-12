@@ -26,5 +26,80 @@ Training Resources
 				<td><a href="">HTML/CSS, въведение</a></td>
 				<td>14-15.11.2018</td>
 			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">HTML/CSS, Стилизиране ...</a></td>
+				<td>18.11.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">HTML/CSS, таблици и форми</a></td>
+				<td>21-22.11.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - въедение</a></td>
+				<td>25.11.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - if, else & switch</a></td>
+				<td>28-29.11.2018</td>
+			</tr>
+			<tr>
+				<td>х</td>
+				<td>хххх</td>
+				<td>2.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP. Масиви. Потребителски данни.</a></td>
+				<td>5-6.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - foreach&while</a></td>
+				<td>9.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - цикъл For, вложени цикли, двумерни масиви</a></td>
+				<td>12-13.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - функции</a></td>
+				<td>16.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - Сесии</a></td>
+				<td>19-20.12.2018</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - Работа със стрингове</a></td>
+				<td>06.01.2019</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - Преговор и подготовка за тест</a></td>
+				<td>09-10.01.2019</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">PHP - Тест</a></td>
+				<td>13.01.2019</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">консултации проекти</a></td>
+				<td>15-16.01.2019</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td><a href="">представяне на проекти</a></td>
+				<td>13.01.2019</td>
+			</tr>
 		</tbody>
 	</table>
