@@ -38,7 +38,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>5</td>
-				<td><a href="">PHP - въедение</a></td>
+				<td><a href="">PHP - въведение</a></td>
 				<td>25.11.2018</td>
 			</tr>
 			<tr>
