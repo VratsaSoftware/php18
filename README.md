@@ -6,7 +6,7 @@ Training Resources
 <p><a href="" target="_blank"> Календар Ниво 2 - РНР 2 </a></p>
 <p><a href="" target="_blank"> Календар Ниво 3 - JavaScript </a></p>
 <p><a href="" target="_blank"> Календар Ниво 4 - PHP OOP & MVC </a></p>
-<a name="php1">Ниво 1 - РНР 1</a> 
+<h3><a name="php1">Ниво 1 - РНР 1</a></h3>
 <table>
 		<thead>
 			<tr>
