@@ -44,7 +44,12 @@ Training Resources
 			<tr>
 				<td>6</td>
 				<td><a href="">PHP - if, else & switch</a></td>
-				<td>28-29.11.2018</td>
+				<td style="color:red">26.11.2018</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td><a href="">PHP - if, else & switch</a></td>
+				<td>29.11.2018</td>
 			</tr>
 			<tr>
 				<td>х</td>
