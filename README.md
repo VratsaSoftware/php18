@@ -23,17 +23,18 @@ Training Resources
 			</tr>
 			<tr>
 				<td>2</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML/CSS, въведение</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML, въведение</a><br><a href="https://youtu.be/On3r8bIkvt4">HTML, видео - 14.11.2018</a></td>
+				
 				<td>14-15.11.2018</td>
 			</tr>
 			<tr>
 				<td>3</td>
-				<td><a href="">HTML/CSS, Стилизиране ...</a></td>
+				<td><a href="">HTML/CSS, таблици и форми, Стилизиране ...</a></td>
 				<td>18.11.2018</td>
 			</tr>
 			<tr>
 				<td>4</td>
-				<td><a href="">HTML/CSS, таблици и форми</a></td>
+				<td><a href="">HTML/CSS, Стилизиране</a></td>
 				<td>21-22.11.2018</td>
 			</tr>
 			<tr>
