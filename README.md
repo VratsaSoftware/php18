@@ -23,7 +23,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>2</td>
-				<td><a href="">HTML/CSS, въведение</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML/CSS, въведение</a></td>
 				<td>14-15.11.2018</td>
 			</tr>
 			<tr>
@@ -44,7 +44,12 @@ Training Resources
 			<tr>
 				<td>6</td>
 				<td><a href="">PHP - if, else & switch</a></td>
-				<td>28-29.11.2018</td>
+				<td>26.11.2018</td>
+			</tr>
+			<tr>
+				<td>6</td>
+				<td><a href="">PHP - if, else & switch</a></td>
+				<td>29.11.2018</td>
 			</tr>
 			<tr>
 				<td>х</td>
