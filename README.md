@@ -23,7 +23,7 @@ Training Resources
 			</tr>
 			<tr>
 				<td>2</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML, intro</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">Видео - 14.11.2018</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML, intro</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">Видео - 14.11.2018</a>//<a href="https://www.youtube.com/watch?v=ivtVQxCFpxo&feature=youtu.be">Видео - 15.11.2018</a></td>
 				<td>14-15.11.2018</td>
 				<td>19.00</td>
 			</tr>
