@@ -1,6 +1,5 @@
 # Vratsa Software, PHP WEB 2018
 Training Resources
-
 <h3>Разпределение по групи <a href="https://docs.google.com/spreadsheets/d/1io_9_z07-AK52bFqosF3X9LNQBeQKlnBbhj4NIytmAE/edit?usp=sharing" target="_blank"> тук </a></h3>
 <p><a href="#php1"> Календар Ниво 1 - РНР 1 </a></p>
 <p><a href="" target="_blank"> Календар Ниво 2 - РНР 2 </a></p>
@@ -23,17 +22,17 @@ Training Resources
 			</tr>
 			<tr>
 				<td>2</td>
-				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML/CSS, въведение</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML, intro</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">Видео - 14.11.2018</a></td>
 				<td>14-15.11.2018</td>
 			</tr>
 			<tr>
 				<td>3</td>
-				<td><a href="">HTML/CSS, Стилизиране ...</a></td>
+				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML/CSS, таблици и форми, Стилизиране ...</a></td>
 				<td>18.11.2018</td>
 			</tr>
 			<tr>
 				<td>4</td>
-				<td><a href="">HTML/CSS, таблици и форми</a></td>
+				<td><a href="">HTML/CSS, Стилизиране</a></td>
 				<td>21-22.11.2018</td>
 			</tr>
 			<tr>
@@ -113,3 +112,4 @@ Training Resources
 			</tr>
 		</tbody>
 	</table>
+
