@@ -10,8 +10,9 @@ Training Resources
 		<thead>
 			<tr>
 				<th>х</th>
+				<th>тема</th>
 				<th>дата</th>
-				<th>дата</th>
+				<th>час</th>
 			</tr>
 		</thead>
 		<tbody>
@@ -24,36 +25,48 @@ Training Resources
 				<td>2</td>
 				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML, intro</a>//<a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">Видео - 14.11.2018</a></td>
 				<td>14-15.11.2018</td>
+				<td>19.00</td>
 			</tr>
 			<tr>
 				<td>3</td>
 				<td><a href="https://github.com/miletomova/VSO-PHP-WEB-2018/tree/master/01_PHP_1/02_html_intro">HTML/CSS, таблици и форми, Стилизиране ...</a></td>
 				<td>18.11.2018</td>
+				<td>13.30/16.30</td>
 			</tr>
 			<tr>
 				<td>4</td>
 				<td><a href="">HTML/CSS, Стилизиране</a></td>
 				<td>21-22.11.2018</td>
+				<td>19.00</td>
+
 			</tr>
 			<tr>
 				<td>5</td>
 				<td><a href="">PHP - въведение</a></td>
 				<td>25.11.2018</td>
+				<td>13.30/16.30</td>
+
 			</tr>
 			<tr>
 				<td>6</td>
 				<td><a href="">PHP - if, else & switch</a></td>
 				<td>26.11.2018</td>
+				<td>19.00</td>
+
+
 			</tr>
 			<tr>
 				<td>6</td>
 				<td><a href="">PHP - if, else & switch</a></td>
 				<td>29.11.2018</td>
+				<td>19.00</td>
+
 			</tr>
 			<tr>
 				<td>х</td>
 				<td>хххх</td>
 				<td>2.12.2018</td>
+				<td>***</td>
 			</tr>
 			<tr>
 				<td>7</td>
@@ -64,52 +77,69 @@ Training Resources
 				<td>8</td>
 				<td><a href="">PHP - foreach&while</a></td>
 				<td>9.12.2018</td>
+				<td>13.30/16.30</td>
+
 			</tr>
 			<tr>
 				<td>9</td>
 				<td><a href="">PHP - цикъл For, вложени цикли, двумерни масиви</a></td>
 				<td>12-13.12.2018</td>
+				<td>19.00</td>
+
 			</tr>
 			<tr>
 				<td>10</td>
 				<td><a href="">PHP - функции</a></td>
 				<td>16.12.2018</td>
+				<td>13.30/16.30</td>
+
 			</tr>
 			<tr>
 				<td>11</td>
 				<td><a href="">PHP - Сесии</a></td>
 				<td>19-20.12.2018</td>
+				<td>19.00</td>
+				<td>13.30/16.30</td>				
+
 			</tr>
 			<tr>
 				<td>**</td>
 				<td>***коледна ваканция***</td>
 				<td>21.12-05.01.2018</td>
+				<td>***</td>
 			</tr>
 			<tr>
 				<td>12</td>
 				<td><a href="">PHP - Работа със стрингове</a></td>
 				<td>06.01.2019</td>
+				<td>13.30/16.30</td>
+
 			</tr>
 			<tr>
 				<td>13</td>
 				<td><a href="">PHP - Преговор и подготовка за тест</a></td>
 				<td>09-10.01.2019</td>
+				<td>19.00</td>
+
 			</tr>
 			<tr>
 				<td>14</td>
 				<td><a href="">PHP - Тест</a></td>
 				<td>13.01.2019</td>
+				<td>13.30/16.30</td>
+				
 			</tr>
 			<tr>
 				<td>15</td>
 				<td><a href="">консултации проекти</a></td>
 				<td>15-16.01.2019</td>
+				<td>19.00</td>				
 			</tr>
 			<tr>
 				<td>16</td>
 				<td><a href="">представяне на проекти</a></td>
 				<td>20.01.2019</td>
+				<td></td>
 			</tr>
 		</tbody>
 	</table>
-
