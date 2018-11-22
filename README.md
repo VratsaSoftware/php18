@@ -57,24 +57,23 @@ Channels:
 
 ## PHP 1 Schedule
 
-| Lecture | Date | Tutor | Time | Hall |
+| Lecture | Date | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Data types | 17 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
-| Operators | 19 / 20 Nov | Tihomir Krastev | 19:30 | IT Center |
-| Methods |  24 Nov | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
-| Conditional statements - Part 1 | 27 / 28 Nov | Tihomir Krastev | 19:30 | IT Center |
-| Conditional statements - Part 2 |  1 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Loops - Part 2 | 8 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center | 
-| Loops - Exercises | 10 / 11 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Arrays - Part 2 | 17 / 18 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Code quality | 22 Dec | Teodor Kostadinov | 10:00 / 13:30 | IT Center |
-| Strings | 5 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Exercises + GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
-| Revision | 12 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Exam | 26 Jan | Liliya Mihaylova | 10:00 / 13:30 | IT Center |
-| Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
+| HTML, intro | 14-15.11.2018 | 19:00 | IT Center | 
+| HTML, tables and forms | 18.11.2018 | 13.30/16.30 | IT Center |
+| CSS |  21-22.11.2018 | 19:00 | IT Center | 
+| PHP, intro | 25.11.2018 | 13.30/16.30 | IT Center |
+| PHP, Conditional statements |  26.11.2018 | 19:00 | IT Center |
+| PHP, Conditional statements |  29.11.2018 | 19:00 | IT Center |
+| PHP, Arrays, User Inputs | 5-6.12.2018 | 19:00 | IT Center |
+| PHP, Loops | 9.12.2018 | 13.30/16.30 | IT Center | 
+| PHP, Loops - For, Nested Loops, Multidimensional Arrays | 12-13.12.2018 | 19:00 | IT Center |
+| PHP, Functions, GitHub | 16.12.2018 | 13.30/16.30 | IT Center |
+| PHP, Sessions | 19-20.12.2018 | 19:00 | IT Center |
+| PHP, Working with strings | 06.01.2019 | 13.30/16.30 | IT Center |
+| Test preparation | 09-10.01.2019 | 19.00 | IT Center |
+| Final test | 13.01.2019 | 13.30/16.30 | IT Center |
+| Projects Presentation | 20.01.2019 | 13.30 - 19.30 | IT Center |
 
 ## Exam
 
