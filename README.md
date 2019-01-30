@@ -119,26 +119,21 @@ Date - Description - Requirements
 
 ## PHP 2 - PHP&MySQL Schedule
 
-| Lecture | Date | Tutor | Time | Hall |
+| Lecture | Date | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Course Intro | *** | *** | *** | IT Center | 
-| HTML, intro |  *** | *** | *** | IT Center | 
-| HTML/CSS, таблици и форми, Стилизиране ... | *** | *** | *** | IT Center |
-| HTML/CSS, Стилизиране|  *** | *** | *** | IT Center |
-| PHP - въведение | *** | *** | *** | IT Center |
-| PHP - if, else & switch | *** | *** | *** | IT Center | 
-| PHP. Масиви. Потребителски данни. | *** | *** | *** | IT Center |
-| PHP - foreach&while | *** | *** | *** | IT Center |
-| PHP - цикъл For, вложени цикли, двумерни масиви | *** | *** | *** | IT Center |
-| PHP - матрици, упражнения, GitHub | *** | *** | *** | IT Center |
-| PHP - Функции | *** | *** | *** | IT Center |
-| PHP - Работа със стрингове | *** | *** | *** | IT Center |
-| PHP - Сесии | *** | *** | *** | IT Center |
-| PHP - Упражнения | *** | *** | *** | IT Center |
-| Преговор и подготовка за тест | *** | *** | *** | IT Center |
-| PHP - Тест | *** | *** | *** | IT Center |
-| консултации проекти | *** | *** | *** | IT Center |
-| представяне на проекти | *** | *** | *** | IT Center |
+| Data Base design | 6/7.02 | 19.00 | IT Center | 
+| Data Base design, SQL intro |  10.02 | 12.30/15.30 | IT Center | 
+| SQL advanced | 13/14.02 | 19.00 | IT Center |
+| Bootstrap| 17.02 | 12.30/15.30 | IT Center |
+| CRUD - R, C| 20/21.02 | 19.00 | IT Center |
+| CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
+| CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
+| SECURITY | 6/7.02 | 19.00 | IT Center |
+| Lab | 10.02 | 12.30/13.30 | IT Center |
+| Test Preparation | 13/14.02| 19.00 | IT Center |
+| Test | 17.03 | 12.30-18.30 | IT Center |
+| *** | *** | *** | IT Center |
+| Project Presentation | 24.03 | 12.30-18.30 | IT Center |
 
 
 ## Exam
@@ -153,19 +148,13 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Course Intro | [Link]() | [xxx]() | [Repo]() |
-| Data types | [Link]() | [Video]() | [Repo]() |
-| Operators | [Link]() | [Video]() | [Repo]() |
-| Methods | [Link]() | [Video]() | [Repo]() |
-| Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
-| Conditional statements - Part 2 | [Link]() | [Video]() | [Repo]()|
-| Loops - Part 1 | [Link]() | [Video]() | [Repo]()|
-| Loops - Part 2 | [Link]() | [Video]() | [Repo]() |
-| Loops - Exercises | [Link]() | [Video]() | [Repo]() |
-| Arrays - Part 1 | [Link]() | [Video]() | [Repo]() |
-| Arrays - Part 2 | [Link]() | [Video]() | [Repo]() |
-| Code quality | [Link]() | [Video]() | [Repo]() |
-| Strings | [Link]() | [Video]() | [Repo]() |
-| Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
-
+| Data Base design | [Link]() | [xxx]() | [Repo]() |
+| Data Base design, SQL intro | [Link]() | [Video]() | [Repo]() |
+| SQL advanced | [Link]() | [Video]() | [Repo]() |
+| Bootstrap | [Link]() | [Video]() | [Repo]() |
+| CRUD - R, C | [Link]() | [Video]() | [Repo]() |
+| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() | [Repo]()|
+| CRUD - Filtering DB results | [Link]() | [Video]() | [Repo]()|
+| SECURITY | [Link]() | [Video]() | [Repo]() |
+| Lab | [Link]() | [Video]() | [Repo]() |
 
