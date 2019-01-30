@@ -106,4 +106,66 @@ Date - Description - Requirements
 | Strings | [Link]() | [Video]() | [Repo]() |
 | Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
 
+## PHP 1
+1. [Links](#php-1-links)
+2. [Schedule](#php-1-schedule)
+3. [Exam](#php-1-exam)
+4. [Project](#php-1-project)
+5. [Presentations](#php-1-presentations)
+6. [Tutorials](#php-1-tutorials)
+7. [Issues](#php-1-issues)
+8. [Resources](#php-1-resources)
+9. [Courses](#php-1-courses)
+
+## PHP 2 - PHP&MySQL Schedule
+
+| Lecture | Date | Tutor | Time | Hall |
+|---------|:-----|:------|:-----|:-----|
+| Course Intro | *** | *** | *** | IT Center | 
+| HTML, intro |  *** | *** | *** | IT Center | 
+| HTML/CSS, таблици и форми, Стилизиране ... | *** | *** | *** | IT Center |
+| HTML/CSS, Стилизиране|  *** | *** | *** | IT Center |
+| PHP - въведение | *** | *** | *** | IT Center |
+| PHP - if, else & switch | *** | *** | *** | IT Center | 
+| PHP. Масиви. Потребителски данни. | *** | *** | *** | IT Center |
+| PHP - foreach&while | *** | *** | *** | IT Center |
+| PHP - цикъл For, вложени цикли, двумерни масиви | *** | *** | *** | IT Center |
+| PHP - матрици, упражнения, GitHub | *** | *** | *** | IT Center |
+| PHP - Функции | *** | *** | *** | IT Center |
+| PHP - Работа със стрингове | *** | *** | *** | IT Center |
+| PHP - Сесии | *** | *** | *** | IT Center |
+| PHP - Упражнения | *** | *** | *** | IT Center |
+| Преговор и подготовка за тест | *** | *** | *** | IT Center |
+| PHP - Тест | *** | *** | *** | IT Center |
+| консултации проекти | *** | *** | *** | IT Center |
+| представяне на проекти | *** | *** | *** | IT Center |
+
+
+## Exam
+
+Date - Duration - Description;
+
+## Project
+
+Date - Description - Requirements
+
+## PHP 2 Presentations
+
+| Lecture | Link | Video | Repo |
+|---------|:-----|:------|:-----|
+| Course Intro | [Link]() | [xxx]() | [Repo]() |
+| Data types | [Link]() | [Video]() | [Repo]() |
+| Operators | [Link]() | [Video]() | [Repo]() |
+| Methods | [Link]() | [Video]() | [Repo]() |
+| Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
+| Conditional statements - Part 2 | [Link]() | [Video]() | [Repo]()|
+| Loops - Part 1 | [Link]() | [Video]() | [Repo]()|
+| Loops - Part 2 | [Link]() | [Video]() | [Repo]() |
+| Loops - Exercises | [Link]() | [Video]() | [Repo]() |
+| Arrays - Part 1 | [Link]() | [Video]() | [Repo]() |
+| Arrays - Part 2 | [Link]() | [Video]() | [Repo]() |
+| Code quality | [Link]() | [Video]() | [Repo]() |
+| Strings | [Link]() | [Video]() | [Repo]() |
+| Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
+
 
