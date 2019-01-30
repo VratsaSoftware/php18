@@ -59,21 +59,25 @@ Channels:
 
 | Lecture | Date | Tutor | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Data types | 17 Nov | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
-| Operators |  24 Nov | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
-| Conditional statements - Part 1 | 27 / 28 Nov | Tihomir Krastev | 19:30 | IT Center |
-| Methods|  1 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Conditional statements - Part 2 <br/>+ Loops - Part 1 | 3 / 4 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Loops - Part 2 | 8 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center | 
-| Loops - Exercises | 10 / 11 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Arrays - Part 1 | 15 Dec | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Arrays - Part 2 | 17 / 18 Dec | Tihomir Krastev | 19:30 | IT Center |
-| Code quality | 22 Dec | Teodor Kostadinov | 09:00 / 12:00 | IT Center |
-| Strings | 5 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| GitHub | 7 / 8 Jan | Tihomir Krastev | 19:30 | IT Center |
-| Revision | 12 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Exam | 26 Jan | Liliya Mihaylova | 09:00 / 12:00 | IT Center |
-| Final Project | 2 / 3 Feb | All | 09:00 - 18:00 | IT Center |
+| Course Intro | *** | *** | *** | IT Center | 
+| HTML, intro |  *** | *** | *** | IT Center | 
+| HTML/CSS, таблици и форми, Стилизиране ... | *** | *** | 19:30 | IT Center |
+| HTML/CSS, Стилизиране|  *** | *** | 09:00 / 12:00 | IT Center |
+| PHP - въведение | *** | *** | 19:30 | IT Center |
+| PHP - if, else & switch | *** | *** | 09:00 / 12:00 | IT Center | 
+| PHP. Масиви. Потребителски данни. | *** | *** | 19:30 | IT Center |
+| PHP - foreach&while | *** | *** | 09:00 / 12:00 | IT Center |
+| PHP - цикъл For, вложени цикли, двумерни масиви | *** | *** | 19:30 | IT Center |
+| PHP - матрици, упражнения, GitHub | *** | *** | 09:00 / 12:00 | IT Center |
+| PHP - Функции | *** | *** | 09:00 / 12:00 | IT Center |
+| PHP - Работа със стрингове | *** | *** | 19:30 | IT Center |
+| PHP - Сесии | *** | *** | 09:00 / 12:00 | IT Center |
+| PHP - Упражнения | *** | *** | 09:00 / 12:00 | IT Center |
+| Преговор и подготовка за тест | *** | *** | 09:00 - 18:00 | IT Center |
+| PHP - Тест | *** | *** | 09:00 - 18:00 | IT Center |
+| консултации проекти | *** | *** | 09:00 - 18:00 | IT Center |
+| представяне на проекти | *** | *** | 09:00 - 18:00 | IT Center |
+
 
 ## Exam
 
