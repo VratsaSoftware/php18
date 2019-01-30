@@ -106,16 +106,16 @@ Date - Description - Requirements
 | Strings | [Link]() | [Video]() | [Repo]() |
 | Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
 
-## PHP 1
-1. [Links](#php-1-links)
-2. [Schedule](#php-1-schedule)
-3. [Exam](#php-1-exam)
-4. [Project](#php-1-project)
-5. [Presentations](#php-1-presentations)
-6. [Tutorials](#php-1-tutorials)
-7. [Issues](#php-1-issues)
-8. [Resources](#php-1-resources)
-9. [Courses](#php-1-courses)
+## PHP 2
+1. [Links](#php-2-links)
+2. [Schedule](#php-2-schedule)
+3. [Exam](#php-2-exam)
+4. [Project](#php-2-project)
+5. [Presentations](#php-2-presentations)
+6. [Tutorials](#php-2-tutorials)
+7. [Issues](#php-2-issues)
+8. [Resources](#php-2-resources)
+9. [Courses](#php-2-courses)
 
 ## PHP 2 - PHP&MySQL Schedule
 
