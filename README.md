@@ -92,19 +92,19 @@ Date - Description - Requirements
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | Course Intro | [Link]() | [xxx]() | [Repo]() |
-| Data types | [Link]() | [Video]() | [Repo]() |
-| Operators | [Link]() | [Video]() | [Repo]() |
-| Methods | [Link]() | [Video]() | [Repo]() |
-| Conditional statements - Part 1 | [Link]() | [Video]() | [Repo]() |
-| Conditional statements - Part 2 | [Link]() | [Video]() | [Repo]()|
-| Loops - Part 1 | [Link]() | [Video]() | [Repo]()|
-| Loops - Part 2 | [Link]() | [Video]() | [Repo]() |
-| Loops - Exercises | [Link]() | [Video]() | [Repo]() |
-| Arrays - Part 1 | [Link]() | [Video]() | [Repo]() |
-| Arrays - Part 2 | [Link]() | [Video]() | [Repo]() |
-| Code quality | [Link]() | [Video]() | [Repo]() |
-| Strings | [Link]() | [Video]() | [Repo]() |
-| Exercises + GitHub | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]()|
+| *** | [Link]() | [Video]() | [Repo]()|
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
 
 ## PHP 2
 1. [Links](#php-2-links)
