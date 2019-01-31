@@ -121,10 +121,10 @@ Date - Description - Requirements
 
 | Lecture | Date | Time | Hall |
 |---------|:-----|:------|:-----|:-----|
-| Data Base design | 6/7.02 | 19.00 | IT Center | 
-| Data Base design, SQL intro |  10.02 | 12.30/15.30 | IT Center | 
-| SQL advanced | 13/14.02 | 19.00 | IT Center |
-| Bootstrap| 17.02 | 12.30/15.30 | IT Center |
+| Bootstrap| 6/7.02 | 19.00 | IT Center |
+| Data Base - intro, SQL | 10.02 | 12.30/15.30 | IT Center | 
+| Data Base design |  13/14.02 | 19.00 | IT Center | 
+| SQL advanced | 17.02 | 12.30/15.30 | IT Center |
 | CRUD - R, C| 20/21.02 | 19.00 | IT Center |
 | CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
 | CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
@@ -148,10 +148,10 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Data Base design | [Link]() | [xxx]() | [Repo]() |
-| Data Base design, SQL intro | [Link]() | [Video]() | [Repo]() |
-| SQL advanced | [Link]() | [Video]() | [Repo]() |
 | Bootstrap | [Link]() | [Video]() | [Repo]() |
+| Data Base - intro, SQL | [Link]() | [xxx]() | [Repo]() |
+| Data Base design | [Link]() | [Video]() | [Repo]() |
+| SQL advanced | [Link]() | [Video]() | [Repo]() |
 | CRUD - R, C | [Link]() | [Video]() | [Repo]() |
 | CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() | [Repo]()|
 | CRUD - Filtering DB results | [Link]() | [Video]() | [Repo]()|
