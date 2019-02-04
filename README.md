@@ -120,7 +120,21 @@ Date - Description - Requirements
 ## PHP 2 - PHP&MySQL Schedule
 
 | Lecture | Date | Time | Hall |
-|---------|:-----|:------|:-----|:-----|
+|---------|:------|:-----|:-----|
+| Bootstrap| 6/7.02 | 19.00 | IT Center |
+| Data Base - intro, SQL | 10.02 | 12.30/15.30 | IT Center | 
+| Data Base design |  13/14.02 | 19.00 | IT Center | 
+| SQL advanced | 17.02 | 12.30/15.30 | IT Center |
+| CRUD - R, C| 20/21.02 | 19.00 | IT Center |
+| CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
+| CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
+| SECURITY | 6/7.02 | 19.00 | IT Center |
+| Lab, File Uploads | 10.02 | 12.30/13.30 | IT Center |
+| Test Preparation | 13/14.02| 19.00 | IT Center |
+| Test | 17.03 | 12.30-18.30 | IT Center |
+| *** | *** | *** | IT Center |
+| Project Presentation | 24.03 | 12.30-18.30 | IT Center |
+
 
 
 ## Exam
