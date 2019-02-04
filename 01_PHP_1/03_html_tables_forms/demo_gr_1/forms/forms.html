@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Forms</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<style>
+		p {
+			background: #43FA84!important;
+		}
+	</style>
+</head>
+<body>
+	<form action="" method="">
+		<p>
+			<label style="color: #156322" for="country">Select Country
+				<select name="country" id="country">
+					<option value="bg">Bulgaria</option>
+					<option value="en">England</option>
+					<option value="it" selected="true">Italy</option>
+					<option value="ru">Russia</option>
+				</select>
+			</label>
+		</p>
+		<p>
+			<label for=fname>
+				First Name
+				<input type="text" name="first_name" placeholder="First name ..." value="" id="fname">	
+			</label>
+		</p>
+		<p>Last Name</p>
+		<input type="text" name="last_name" value="Last Name">
+
+		<p>Bio</p>
+		<textarea name="bio"></textarea>
+		
+		<p>Age</p>
+		<input type="number" name="age">
+		<p>Password</p>
+		<input type="password" name="password">
+
+		<p>Agreement</p>
+		<label for="yes">Yes
+			<input type="checkbox" name="agreement" value="yes" id="yes">
+		</label>
+		<span>No</span>
+		<input type="checkbox" name="agreement" value="no">
+		
+		<p>Agreement 2</p>
+		<span>Yes</span>
+		<input type="radio" name="agreement1" value="yes">
+		<span>No</span>
+		<input type="radio" name="agreement1" value="no">
+
+		
+
+		<input type="submit" name="name" value="Save!!!!">
+	</form>
+</body>
+</html>

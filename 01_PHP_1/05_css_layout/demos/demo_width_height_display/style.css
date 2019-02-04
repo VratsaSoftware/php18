@@ -1,0 +1,30 @@
+body {
+	background-color: #E98E8E
+}
+
+nav {
+	background-color: #B445F4;
+	width: 600px;
+	height: 200px;	
+	/*width: 100%*/
+	/*display: none*/
+}
+
+ul {
+	background-color: #23F7BE
+}
+
+li {
+	background-color: #F1EF25;
+	display: inline-block;
+	width: 60px;
+	height: 60px
+}
+
+a {
+	background-color: #F56A0D;
+	/*display: block;*/
+	display: inline-block;
+	width: 50px;
+	height: 50px
+}

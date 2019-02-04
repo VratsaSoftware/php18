@@ -1,0 +1,27 @@
+nav {
+	background-color: #F68C8C;
+	width: 50%;
+	height: 200px;
+	/*display: none*/
+}
+
+ul {
+	background-color: #68D7FC;
+	width: 100%;
+	height: 180px
+}
+
+li {
+	background-color: #7DE47B;
+	width: 30%;
+	height: 55px;
+	display: inline-block;
+}
+
+a {
+	background-color: #F4EC0B;
+	width: 30%;
+	height: 50px;
+	display: inline-block;
+
+}

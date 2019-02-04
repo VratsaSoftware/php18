@@ -1,0 +1,29 @@
+body {
+	background: #0C0101
+}
+
+.wrapper {
+	width: 80%;
+	margin: auto
+}
+header, footer {
+	background-color: #226CF4;
+	color: #FAB308
+}
+
+nav {
+	font-size: 50px
+}
+
+footer nav {
+	font-size: 10px
+}
+
+footer .social nav {
+	text-align: center;
+	color: #F4EEF4
+}
+
+#demo {
+	
+}

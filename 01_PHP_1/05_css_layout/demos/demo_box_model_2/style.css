@@ -1,0 +1,40 @@
+body, nav, ul, li, a {
+	margin: 0;
+	padding: 0
+}
+
+body {
+	background-color: #E98E8E
+}
+
+nav {
+	background-color: #B445F4;
+	/*width: 600px;
+	height: 200px;	
+	*//*width: 100%*/
+	/*display: none*/
+}
+
+ul {
+	background-color: #23F7BE;
+	/*padding: 20px;
+	margin: 20px*/
+}
+
+li {
+	background-color: #F1EF25;
+	display: inline-block;
+	margin: 10px
+	
+}
+/*100px*100px -външен размер на елемента*/
+/*4px - border
+55px разстояние до съдържанието*/
+a {
+	background-color: #F56A0D;
+	display: inline-block;
+	padding: 10px;
+	border: 5px solid #000;
+	font-size: 20px
+}
+
