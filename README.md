@@ -96,8 +96,8 @@ Date - Description - Requirements
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
-| *** | [Link]() | [Video]() | [Repo]()|
-| *** | [Link]() | [Video]() | [Repo]()|
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
@@ -148,7 +148,7 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| Bootstrap | [Link]() | [Video]() | [Repo]() |
+| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video]() | [Repo]() |
 | Data Base - intro, SQL | [Link]() | [xxx]() | [Repo]() |
 | Data Base design | [Link]() | [Video]() | [Repo]() |
 | SQL advanced | [Link]() | [Video]() | [Repo]() |
