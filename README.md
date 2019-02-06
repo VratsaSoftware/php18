@@ -96,8 +96,8 @@ Date - Description - Requirements
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
-| *** | [Link]() | [Video]() | [Repo]()|
-| *** | [Link]() | [Video]() | [Repo]()|
+| *** | [Link]() | [Video]() | [Repo]() |
+| *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
@@ -120,7 +120,7 @@ Date - Description - Requirements
 ## PHP 2 - PHP&MySQL Schedule
 
 | Lecture | Date | Time | Hall |
-|---------|:-----|:------|:-----|:-----|
+|---------|:------|:-----|:-----|
 | Bootstrap| 6/7.02 | 19.00 | IT Center |
 | Data Base - intro, SQL | 10.02 | 12.30/15.30 | IT Center | 
 | Data Base design |  13/14.02 | 19.00 | IT Center | 
@@ -136,6 +136,7 @@ Date - Description - Requirements
 | Project Presentation | 24.03 | 12.30-18.30 | IT Center |
 
 
+
 ## Exam
 
 Date - Duration - Description;
@@ -146,15 +147,15 @@ Date - Description - Requirements
 
 ## PHP 2 Presentations
 
-| Lecture | Link | Video | Repo |
-|---------|:-----|:------|:-----|
-| Bootstrap | [Link]() | [Video]() | [Repo]() |
-| Data Base - intro, SQL | [Link]() | [xxx]() | [Repo]() |
-| Data Base design | [Link]() | [Video]() | [Repo]() |
-| SQL advanced | [Link]() | [Video]() | [Repo]() |
-| CRUD - R, C | [Link]() | [Video]() | [Repo]() |
-| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() | [Repo]()|
-| CRUD - Filtering DB results | [Link]() | [Video]() | [Repo]()|
-| SECURITY | [Link]() | [Video]() | [Repo]() |
-| Lab, File Uploads | [Link]() | [Video]() | [Repo]() |
+| Lecture | Link | Video | Video2 | Repo |
+|---------|:-----|:------|:-----|:-----|
+| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video]() |[Video2]() | [Repo]() |
+| Data Base - intro, SQL | [Link]() | [xxx]() |[Video2]() | [Repo]() |
+| Data Base design | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| SQL advanced | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD - R, C | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| Lab, File Uploads | [Link]() | [Video]() |[Video2]() | [Repo]() |
 
