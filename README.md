@@ -149,7 +149,7 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Video2 | Repo |
 |---------|:-----|:------|:-----|:-----|
-| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video]() |[Video2]() | [Repo]() |
+| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2]() | [Repo]() |
 | Data Base - intro, SQL | [Link]() | [xxx]() |[Video2]() | [Repo]() |
 | Data Base design | [Link]() | [Video]() |[Video2]() | [Repo]() |
 | SQL advanced | [Link]() | [Video]() |[Video2]() | [Repo]() |
