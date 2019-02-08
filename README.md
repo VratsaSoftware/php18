@@ -43,6 +43,61 @@ Channels:
 
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 
+## PHP 2
+1. [Links](#php-2-links)
+2. [Schedule](#php-2-schedule)
+3. [Exam](#php-2-exam)
+4. [Project](#php-2-project)
+5. [Presentations](#php-2-presentations)
+6. [Tutorials](#php-2-tutorials)
+7. [Issues](#php-2-issues)
+8. [Resources](#php-2-resources)
+9. [Courses](#php-2-courses)
+
+## PHP 2 - PHP&MySQL Schedule
+
+| Lecture | Date | Time | Hall |
+|---------|:------|:-----|:-----|
+| Bootstrap| 6/7.02 | 19.00 | IT Center |
+| Data Base - intro, SQL | 10.02 | 12.30/15.30 | IT Center | 
+| Data Base design |  13/14.02 | 19.00 | IT Center | 
+| SQL advanced | 17.02 | 12.30/15.30 | IT Center |
+| CRUD - R, C| 20/21.02 | 19.00 | IT Center |
+| CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
+| CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
+| SECURITY | 6/7.02 | 19.00 | IT Center |
+| Lab, File Uploads | 10.02 | 12.30/13.30 | IT Center |
+| Test Preparation | 13/14.02| 19.00 | IT Center |
+| Test | 17.03 | 12.30-18.30 | IT Center |
+| *** | *** | *** | IT Center |
+| Project Presentation | 24.03 | 12.30-18.30 | IT Center |
+
+
+
+## Exam
+
+Date - Duration - Description;
+
+## Project
+
+Date - Description - Requirements
+
+## PHP 2 Presentations
+
+| Lecture | Link | Video | Video2 | Repo |
+|---------|:-----|:------|:-----|:-----|
+| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2](https://youtu.be/WDD4-vqmVHc) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap) |
+| Data Base - intro, SQL | [Link]() | [xxx]() |[Video2]() | [Repo]() |
+| Data Base design | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| SQL advanced | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD - R, C | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| Lab, File Uploads | [Link]() | [Video]() |[Video2]() | [Repo]() |
+
+
+
 
 ## PHP 1
 1. [Links](#php-1-links)
@@ -105,57 +160,3 @@ Date - Description - Requirements
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
 | *** | [Link]() | [Video]() | [Repo]() |
-
-## PHP 2
-1. [Links](#php-2-links)
-2. [Schedule](#php-2-schedule)
-3. [Exam](#php-2-exam)
-4. [Project](#php-2-project)
-5. [Presentations](#php-2-presentations)
-6. [Tutorials](#php-2-tutorials)
-7. [Issues](#php-2-issues)
-8. [Resources](#php-2-resources)
-9. [Courses](#php-2-courses)
-
-## PHP 2 - PHP&MySQL Schedule
-
-| Lecture | Date | Time | Hall |
-|---------|:------|:-----|:-----|
-| Bootstrap| 6/7.02 | 19.00 | IT Center |
-| Data Base - intro, SQL | 10.02 | 12.30/15.30 | IT Center | 
-| Data Base design |  13/14.02 | 19.00 | IT Center | 
-| SQL advanced | 17.02 | 12.30/15.30 | IT Center |
-| CRUD - R, C| 20/21.02 | 19.00 | IT Center |
-| CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
-| CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
-| SECURITY | 6/7.02 | 19.00 | IT Center |
-| Lab, File Uploads | 10.02 | 12.30/13.30 | IT Center |
-| Test Preparation | 13/14.02| 19.00 | IT Center |
-| Test | 17.03 | 12.30-18.30 | IT Center |
-| *** | *** | *** | IT Center |
-| Project Presentation | 24.03 | 12.30-18.30 | IT Center |
-
-
-
-## Exam
-
-Date - Duration - Description;
-
-## Project
-
-Date - Description - Requirements
-
-## PHP 2 Presentations
-
-| Lecture | Link | Video | Video2 | Repo |
-|---------|:-----|:------|:-----|:-----|
-| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap) |
-| Data Base - intro, SQL | [Link]() | [xxx]() |[Video2]() | [Repo]() |
-| Data Base design | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| SQL advanced | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| CRUD - R, C | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
-| CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
-| SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| Lab, File Uploads | [Link]() | [Video]() |[Video2]() | [Repo]() |
-
