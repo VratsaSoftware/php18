@@ -61,9 +61,9 @@ Channels:
 | Bootstrap| 6/7.02 | 19.00 | IT Center |
 | Data Base design | 10.02 | 12.30 | IT Center | 
 | Data Base - intro, SQL |  13 | 19.00 | IT Center | 
-| SQL advanced, DB lab | 17.02 | 12.30 | IT Center |
-| CRUD - R, C| 20/21.02 | 19.00 | IT Center |
-| CRUD - U, D, How To CRUD relational Tables  | 24.02 | 12.30/15.30 | IT Center | 
+| CRUD | 17.02 | 12.30 | IT Center |
+| SQL advanced| 20/21.02 | 19.00 | IT Center |
+| CRUD - How To CRUD related Tables  | 24.02 | 12.30/15.30 | IT Center | 
 | CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
 | SECURITY | 6/7.02 | 19.00 | IT Center |
 | Lab, File Uploads | 10.02 | 12.30/13.30 | IT Center |
@@ -89,9 +89,9 @@ Date - Description - Requirements
 | Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2](https://youtu.be/WDD4-vqmVHc) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap) |
 | Data Base - design | [Link]() | [Video](https://youtu.be/v3SyNPcqVSQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/02_db_design) |
 | Data Base - intro, SQL | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Slides) | [Video](https://studio.youtube.com/video/Rb5jrIZNUPA/edit) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Tasks) |
-| SQL advanced, DB Lab | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| CRUD - R, C | [Link]() | [Video]() |[Video2]() | [Repo]() |
-| CRUD - U, D, How To CRUD relational Tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| CRUD | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| SQL advanced| [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD - How To CRUD related tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
 | CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
 | SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
 | Lab, File Uploads | [Link]() | [Video]() |[Video2]() | [Repo]() |
