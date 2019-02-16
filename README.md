@@ -89,7 +89,7 @@ Date - Description - Requirements
 | Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2](https://youtu.be/WDD4-vqmVHc) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap) |
 | Data Base - design | [Link]() | [Video](https://youtu.be/v3SyNPcqVSQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/02_db_design) |
 | Data Base - intro, SQL | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Slides) | [Video](https://studio.youtube.com/video/Rb5jrIZNUPA/edit) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Tasks) |
-| CRUD | [Link]() | [Video]() |[Video2]() | [Repo]() |
+| CRUD | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD/Slides) | [Video]() |[Video2]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD) |
 | SQL advanced| [Link]() | [Video]() |[Video2]() | [Repo]() |
 | CRUD - How To CRUD related tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
 | CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
