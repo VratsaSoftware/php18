@@ -21,7 +21,7 @@ if(isset($_POST['submit'])){
 	$iso_code_2 = $_POST['iso_code_2'];
 	$iso_code_3 = $_POST['iso_code_3'];
 
-	$q_create = "INSERT INTO `country`(`name`, `iso_code_2`, `iso_code_3`) VALUES ('$country','$iso_code_2','$iso_code_3')";
+	$q_create = "INSERT INTO `country`(`name`, `iso_code_2`, `iso_code_3`) VALUES ('$country','$iso_code_2')";
 
 	$result = mysqli_query($conn, $q_create);
 
@@ -29,7 +29,8 @@ if(isset($_POST['submit'])){
 		// echo "Success!";
 		header('Location: read.php');
 	} else {
-		echo "Please, try again later!";
+		echo mysqli_error($conn);
+		// echo "Please, try again later!";
 	}
 }
 ?>
