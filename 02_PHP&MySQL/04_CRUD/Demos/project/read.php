@@ -18,7 +18,8 @@ $result = mysqli_query($conn, $q_read);
 <body>
 <?php 
 	if(mysqli_num_rows($result) > 0){
-?>
+?>	
+	<a href="create.php">Add new country</a>
 		<table border=1>
 			<tr>
 				<td>#</td>
