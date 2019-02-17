@@ -1,5 +1,5 @@
 <?php 
-include 'db_connect.php';
+include "includes/header.php";
 $id = $_GET['id'];
 
 $read_q = "SELECT * FROM country WHERE country_id = $id";
@@ -21,14 +21,7 @@ if ($row) {
 	$country_name = '';
 }
 
-?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Update</title>
-</head>
-<body>
+	?>
 	<form action="" method="post">
 		<input type="text" name="country" value="<?= $country_name ?>">
 		<input type="text" name="iso_code_2" value="<?= $iso_code_2 ?>">
@@ -56,6 +49,4 @@ if(isset($_POST['submit'])){
 		// echo "Please, try again later!";
 	}
 }
-?>
-</body>
-</html>
+include 'includes/footer.php';
