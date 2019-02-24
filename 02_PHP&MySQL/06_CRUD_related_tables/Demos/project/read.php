@@ -34,7 +34,7 @@ $read_result = mysqli_query($conn, $read_query);
 								<td><?= $row['quantity']?></td>
 								<td><?= $row['manufacturer_name']?></td>
 								<td class="text-center">
-									<a href="update.php?product=<?= $row['product_id'] ?>" class="btn btn-warning">WARNING</a>
+									<a href="update.php?product=<?= $row['product_id'] ?>" class="btn btn-warning">UPDATE</a>
 								</td>
 								<td class="text-center">
 									<a href="delete.php?product=<?= $row['product_id'] ?>" class="btn btn-danger">DELETE</a>

@@ -1,8 +1,9 @@
 <?php 
 $title = 'Create';
 include "includes/header.php";
-$namufacturers_query = "SELECT * FROM manufacturer";
-$manufacturers_result = mysqli_query($conn, $namufacturers_query);
+
+$manufacturers_query = "SELECT * FROM manufacturer";
+$manufacturers_result = mysqli_query($conn, $manufacturers_query);
 
 ?>
 <div class="container">
@@ -56,14 +57,14 @@ if(isset($_POST['submit'])){
 
 		$product_create_query = "INSERT INTO product (price, quantity, manufacturer_id, date_added, date_modified)";
 		$product_create_query .= " VALUES (" . (float)$product_price . ", " . (int)$product_quantity . ", " . (int)$product_manufacturer . ", '$date_added', '$date_modified')";
-		var_dump($product_create_query);
+		// var_dump($product_create_query);
 		$result = mysqli_query($conn, $product_create_query);
 
 		$last_product_id = mysqli_insert_id($conn);
 		
 		$product_description_create_query = "INSERT INTO product_description (product_id, name)";
 		$product_description_create_query .= " VALUES (" . $last_product_id . ", '" . $product_name . "')";
-		var_dump($product_description_create_query);
+		// var_dump($product_description_create_query);
 		
 		$result = mysqli_query($conn, $product_description_create_query);
 
