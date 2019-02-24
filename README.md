@@ -90,7 +90,7 @@ Date - Description - Requirements
 | Data Base - design | [Link]() | [Video](https://youtu.be/v3SyNPcqVSQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/02_db_design) |
 | Data Base - intro, SQL | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Slides) | [Video](https://studio.youtube.com/video/Rb5jrIZNUPA/edit) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Tasks) |
 | CRUD | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD/Slides) | [Video](https://youtu.be/xS32qYBR1W0) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD) |
-| SQL advanced| [Link]() | [Video]() |[Video2]() | [Repo]() |
+| SQL advanced| [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced/Slides) | [Video](https://youtu.be/q22RYwZhu58) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced) |
 | CRUD - How To CRUD related tables | [Link]() | [Video]() |[Video2]() | [Repo]()|
 | CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
 | SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
