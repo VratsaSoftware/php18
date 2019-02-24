@@ -1,7 +1,7 @@
 <?php 
 $title = 'Read';
 include "includes/header.php";
-$read_query = "SELECT P.product_id, pd.name AS product_name, p.price, p.quantity, m.name AS manufacturer_name FROM ";
+$read_query = "SELECT p.product_id, pd.name AS product_name, p.price, p.quantity, m.name AS manufacturer_name FROM ";
 $read_query .= "product p JOIN product_description pd ON p.product_id=pd.product_id ";
 $read_query .= "JOIN manufacturer m ON p.manufacturer_id=m.manufacturer_id";
 
@@ -33,7 +33,6 @@ $read_result = mysqli_query($conn, $read_query);
 								<td><?= $row['price']?></td>
 								<td><?= $row['quantity']?></td>
 								<td><?= $row['manufacturer_name']?></td>
-								<td>UPDATE</td>
 								<td class="text-center">
 									<a href="update.php?product=<?= $row['product_id'] ?>" class="btn btn-warning">WARNING</a>
 								</td>
