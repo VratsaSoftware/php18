@@ -4,7 +4,7 @@ include "includes/header.php";
 
 $product_id = $_GET['product'];
 
-$read_query = "SELECT p.product_id, pd.name AS product_name, p.price, p.quantity, m.name AS manufacturer_name FROM ";
+$read_query = "SELECT p.product_id, pd.name AS product_name, p.price, p.quantity, m.name AS manufacturer_name, p.manufacturer_id FROM ";
 $read_query .= "product p JOIN product_description pd ON p.product_id=pd.product_id ";
 $read_query .= "JOIN manufacturer m ON p.manufacturer_id=m.manufacturer_id ";
 $read_query .= "WHERE p.product_id=". $product_id;
@@ -47,7 +47,7 @@ $manufacturers_result = mysqli_query($conn, $namufacturers_query);
 							
 							<?php while($row = mysqli_fetch_assoc($manufacturers_result)){ ?>
 
-								<option value="<?= $row['manufacturer_id'] ?>" selected="<?php if( $row['manufacturer_id'] == $row_product['manufacturer_id']) { echo true; }?>"><?= $row['name'] ?></option>
+								<option value="<?= $row['manufacturer_id']; ?>" <?php if( $row['manufacturer_id'] == $row_product['manufacturer_id']) { echo 'selected'; } ?> ><?= $row['name'] ?></option>
 
 							<?php } ?>
 
@@ -67,17 +67,20 @@ if(isset($_POST['submit'])){
 		$product_price 			= $_POST['product_price'];
 		$product_quantity 		= $_POST['product_quantity'];
 		$product_manufacturer 	= $_POST['manufacturer_id'];
-		$date_added 			= date('Y-m-d h:i:s');
+		
 		$date_modified 			= date('Y-m-d h:i:s');
 
 		//to do add hidden field product id
-		$product_update_query = "UPDATE product SET price=$product_price, quantity=$product_quantity, manufacturer_id=$product_manufacturer, date_modified=$date_modified ";
-		$product_update_query = "WHERE product_id = $product_id";
-		$result = mysqli_query($conn, $product_update_query);
+		$product_update_query = "UPDATE product SET price=" .(float)$product_price. ", ";
+		$product_update_query .="quantity=" . (int)$product_quantity .", ";
+		$product_update_query .= "manufacturer_id=" . (int)$product_manufacturer . ", ";
+		$product_update_query .= "date_modified='$date_modified' ";
+		$product_update_query .= "WHERE product_id = $product_id";
+		$result_update = mysqli_query($conn, $product_update_query);
 
-		$product_update_query = "UPDATE product_description SET name=$product_name ";
-		$product_update_query = "WHERE product_id = $product_id";	
-			
+		$product_description_update_query = "UPDATE product_description SET name='$product_name'";
+		$product_description_update_query .= " WHERE product_id = $product_id";	
+			var_dump($product_description_update_query);
 		$result = mysqli_query($conn, $product_description_update_query);
 
 		if($result){
