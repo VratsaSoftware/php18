@@ -13,8 +13,6 @@ $result = mysqli_query($conn, $read_query);
 
 $row_product = mysqli_fetch_assoc($result);
 
-
-
 $namufacturers_query = "SELECT * FROM manufacturer";
 $manufacturers_result = mysqli_query($conn, $namufacturers_query);
 

@@ -1,5 +1,6 @@
 <?php 
 include 'includes/db_connect.php';
+
 $id = $_GET['product'];
 
 $delete_product = "DELETE FROM `product` WHERE `product_id`=$id";

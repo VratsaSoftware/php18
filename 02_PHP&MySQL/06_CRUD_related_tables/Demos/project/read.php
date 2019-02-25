@@ -1,6 +1,7 @@
 <?php 
 $title = 'Read';
 include "includes/header.php";
+
 $read_query = "SELECT p.product_id, pd.name AS product_name, p.price, p.quantity, m.name AS manufacturer_name FROM ";
 $read_query .= "product p JOIN product_description pd ON p.product_id=pd.product_id ";
 $read_query .= "JOIN manufacturer m ON p.manufacturer_id=m.manufacturer_id";
@@ -43,7 +44,9 @@ $read_result = mysqli_query($conn, $read_query);
 						<?php } ?>
 					</tbody>
 				</table>
-			<?php } ?>
+			<?php } else {
+				echo "No result!";
+			}?>
 			<div class="row justify-content-md-center">
 				<a href="create.php" class="btn btn-secondary">Add new product</a>
 			</div>
