@@ -7,7 +7,7 @@ $read_query .= "product p JOIN product_description pd ON p.product_id=pd.product
 $read_query .= "JOIN manufacturer m ON p.manufacturer_id=m.manufacturer_id";
 // case - no sort - sort id
 if( isset($_GET['submit'])){
-
+	
 	if( $_GET['sort'] == 'name_asc'){
 		$sort_by = 'pd.name';
 		$sort_direction = 'ASC';
@@ -22,7 +22,10 @@ if( isset($_GET['submit'])){
 		$sort_direction = 'DESC';
 	}
 
-	$read_query .= " ORDER BY ({$sort_by}) {$sort_direction}";
+	$limit = $_GET['limit'];
+
+	// $read_query .= " ORDER BY ({$sort_by}) {$sort_direction}";
+	$read_query .= " ORDER BY ({$sort_by}) {$sort_direction} LIMIT {$limit}";
 }
 
 $read_result = mysqli_query($conn, $read_query);
@@ -32,15 +35,31 @@ $read_result = mysqli_query($conn, $read_query);
 	<div class="row justify-content-md-center">
 		<h2>Read</h2>
 	</div>
-	<form action="" method="get">
-		<select name="sort">
-			<option value="name_asc">Sort by name A-Z</option>
-			<option value="name_desc">Sort by name Z-A</option>
-			<option value="man_asc">Sort by manufacturer A-Z</option>
-			<option value="man_desc">Sort by manufacturer Z-A</option>
-		</select>
-		<input type="submit" name="submit" value="sort">
-	</form>
+	<div class="row justify-content-md-center">
+		<form action="" method="get">
+			<div class="form-row">
+				<div class="col-sm-7">
+					<select class="custom-select" name="sort">
+						<option value="name_asc">Sort by name A-Z</option>
+						<option value="name_desc">Sort by name Z-A</option>
+						<option value="man_asc">Sort by manufacturer A-Z</option>
+						<option value="man_desc">Sort by manufacturer Z-A</option>
+					</select>	
+				</div>
+				<div class="col-sm-7">
+					<select class="custom-select" name="limit">
+						<option value="2">2</option>
+						<option value="5">5</option>
+						<option value="10">10</option>
+					</select>	
+				</div>
+				<div class="col-sm-2">
+					<input type="submit" name="submit" class="btn btn-success" value="sort">
+				</div>
+			</div>
+		</form>
+	</div>
+
 	<div class="row justify-content-md-center">			
 		<div class="col-sm-10">
 			<?php if(mysqli_num_rows($read_result) > 0){ ?>
