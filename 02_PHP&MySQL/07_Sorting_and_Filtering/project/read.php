@@ -35,7 +35,7 @@ $read_result = mysqli_query($conn, $read_query);
 	</div>
 	<div class="row justify-content-md-center mb-2">
 		<form action="" method="get">
-			<div class="row">
+			<div class="form-row">
 				<div class="col-sm-5">
 					<select class="custom-select" name="sort">
 						<option value="name_asc">Sort by name A-Z</option>
