@@ -23,8 +23,6 @@ if( isset($_GET['submit'])){
 	}
 
 	$limit = $_GET['limit'];
-
-	// $read_query .= " ORDER BY ({$sort_by}) {$sort_direction}";
 	$read_query .= " ORDER BY ({$sort_by}) {$sort_direction} LIMIT {$limit}";
 }
 
@@ -32,13 +30,13 @@ $read_result = mysqli_query($conn, $read_query);
 
 ?>
 <div class="container">
-	<div class="row justify-content-md-center">
+	<div class="row justify-content-md-center mb-2">
 		<h2>Read</h2>
 	</div>
-	<div class="row justify-content-md-center">
+	<div class="row justify-content-md-center mb-2">
 		<form action="" method="get">
-			<div class="form-row">
-				<div class="col-sm-7">
+			<div class="row">
+				<div class="col-sm-5">
 					<select class="custom-select" name="sort">
 						<option value="name_asc">Sort by name A-Z</option>
 						<option value="name_desc">Sort by name Z-A</option>
@@ -46,7 +44,7 @@ $read_result = mysqli_query($conn, $read_query);
 						<option value="man_desc">Sort by manufacturer Z-A</option>
 					</select>	
 				</div>
-				<div class="col-sm-7">
+				<div class="col-sm-5">
 					<select class="custom-select" name="limit">
 						<option value="2">2</option>
 						<option value="5">5</option>
@@ -59,7 +57,6 @@ $read_result = mysqli_query($conn, $read_query);
 			</div>
 		</form>
 	</div>
-
 	<div class="row justify-content-md-center">			
 		<div class="col-sm-10">
 			<?php if(mysqli_num_rows($read_result) > 0){ ?>
