@@ -92,7 +92,7 @@ Date - Description - Requirements
 | CRUD | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD/Slides) | [Video](https://youtu.be/xS32qYBR1W0) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD) |
 | SQL advanced| [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced/Slides) | [Video](https://youtu.be/q22RYwZhu58) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced) |
 | CRUD - How To CRUD related tables | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/06_CRUD_related_tables) | [Video](https://youtu.be/fSZ9NWUJLMQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/06_CRUD_related_tables)|
-| CRUD - Filtering DB results | [Link]() | [Video]() |[Video2]() | [Repo]()|
+| CRUD - Filtering DB results | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering) | [Video](https://youtu.be/VA0L3NJ35Ig) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering)|
 | SECURITY | [Link]() | [Video]() |[Video2]() | [Repo]() |
 | Lab, File Uploads | [Link]() | [Video]() |[Video2]() | [Repo]() |
 
