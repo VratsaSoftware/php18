@@ -24,6 +24,7 @@ $read_result = mysqli_query($conn, $read_query);
 							<th>Country</th>
 							<th>***</th>
 							<th>***</th>
+							<th>***</th>
 						</tr>
 					</thead>
 					<tbody>
@@ -34,6 +35,9 @@ $read_result = mysqli_query($conn, $read_query);
 								<td><?= $row['country_name']?></td>
 								<td class="text-center">
 									<a href="update.php?cinema=<?= $row['id'] ?>" class="btn btn-warning">UPDATE</a>
+								</td>
+								<td class="text-center">
+									<a href="soft_delete.php?cinema=<?= $row['id'] ?>" class="btn btn-danger">SOFT DELETE</a>
 								</td>
 								<td class="text-center">
 									<a href="delete.php?cinema=<?= $row['id'] ?>" class="btn btn-danger">DELETE</a>

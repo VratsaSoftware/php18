@@ -53,27 +53,20 @@ $countries_result = mysqli_query($conn, $countries_query);
 </div>
 <?php 
 if(isset($_POST['submit'])){
-		$product_name 			= $_POST['product_name'];
-		$product_price 			= $_POST['product_price'];
-		$product_quantity 		= $_POST['product_quantity'];
-		$product_manufacturer 	= $_POST['manufacturer_id'];
+		$cinema_name 			= $_POST['cinema_name'];
+		$cinema_places 			= $_POST['cinema_places'];
+		$country_id 			= $_POST['country_id'];
 		
-		$date_modified 			= date('Y-m-d h:i:s');
-
 		//to do add hidden field product id
-		$product_update_query = "UPDATE product SET price=" .(float)$product_price. ", ";
-		$product_update_query .="quantity=" . (int)$product_quantity .", ";
-		$product_update_query .= "manufacturer_id=" . (int)$product_manufacturer . ", ";
-		$product_update_query .= "date_modified='$date_modified' ";
-		$product_update_query .= "WHERE product_id = $product_id";
-		$result_update = mysqli_query($conn, $product_update_query);
-
-		$product_description_update_query = "UPDATE product_description SET name='$product_name'";
-		$product_description_update_query .= " WHERE product_id = $product_id";	
-			var_dump($product_description_update_query);
-		$result = mysqli_query($conn, $product_description_update_query);
-
-		if($result){
+		$update_query = "UPDATE cinemas SET cinema_name ='" .$cinema_name. "', ";
+		$update_query .="places=" . (int)$cinema_places .", ";
+		$update_query .= "country_id=" . (int)$country_id;
+		$update_query .= " WHERE id=" . $cinema_id ;
+		var_dump($update_query);
+		
+		$result_update = mysqli_query($conn, $update_query);
+		
+		if($result_update){
 		// echo "Success!";
 			header('Location: read.php');
 		} else {

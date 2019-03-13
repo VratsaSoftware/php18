@@ -1,13 +1,10 @@
 <?php 
 include 'includes/db_connect.php';
 
-$id = $_GET['product'];
+$id = $_GET['cinema'];
 
-$delete_product = "DELETE FROM `product` WHERE `product_id`=$id";
-$result = mysqli_query($conn, $delete_product);
-
-$delete_product_description = "DELETE FROM `product_description` WHERE `product_id`=$id";
-$result = mysqli_query($conn, $delete_product_description);
+$delete_cinema = "DELETE FROM `cinemas` WHERE `id`=$id";
+$result = mysqli_query($conn, $delete_cinema);
 
 if($result){
 	header('Location: read.php');
