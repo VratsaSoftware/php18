@@ -95,6 +95,7 @@ Date - Description - Requirements
 | CRUD - Filtering DB results | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering) | [Video](https://youtu.be/VA0L3NJ35Ig) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering)|
 | SECURITY | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/08_Security/Slides) | [Video](https://youtu.be/Zhq_Gv46yQo) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/08_Security) |
 | Lab, File Uploads | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/09_Lab_File_upload_download) | [Video](https://youtu.be/0lGKdR49X6U) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/09_Lab_File_upload_download) |
+| Final test preparation | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/10_Test_prep) | [Video](https://youtu.be/AvIQkcS6a_g) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/10_Test_prep) |
 
 
 
