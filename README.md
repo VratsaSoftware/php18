@@ -66,11 +66,11 @@ Channels:
 | CRUD - How To CRUD related Tables  | 24.02 | 12.30/15.30 | IT Center | 
 | CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
 | SECURITY | 5.03 | 19.00 | IT Center |
-| Lab, File Uploads | 10.03 | 12.30/13.30 | IT Center |
+| Lab, File Uploads | 10.03 | 13.30/13.30 | IT Center |
 | Test Preparation | 13.03| 19.00 | IT Center |
-| Test | 17.03 | 12.30-18.30 | IT Center |
+| Test | 17.03 | 13.30-16.30 | IT Center |
 | *** | *** | *** | IT Center |
-| Project Presentation | 24.03 | 12.30-18.30 | IT Center |
+| Project Presentation | 24.03 | 13.30-18.30 | IT Center |
 
 
 
