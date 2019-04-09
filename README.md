@@ -18,7 +18,7 @@ Groups: [Link](https://docs.google.com/spreadsheets/d/1io_9_z07-AK52bFqosF3X9LNQ
 ## Levels
 1. [PHP 1](#php-1)
 2. [PHP 2](#php-2)
-3. [JavaScript](#javasscript)
+3. [JavaScript](#JavaScript)
 4. [PHP OOP & MVC](#php-oop-and-mvc)
 
 ## Tutors
