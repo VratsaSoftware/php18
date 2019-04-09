@@ -44,7 +44,7 @@ Channels:
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 ## JavaScript
 1. [Links](#javasscript-links)
-2. [Schedule](#javasscript-schedule)
+2. [Schedule](#JavaScript-schedule)
 3. [Exam](#javasscript-exam)
 4. [Project](#javasscript-project)
 5. [Presentations](#javasscript-presentations)
@@ -82,7 +82,7 @@ Date - Duration - Description;
 
 Date - Description - Requirements
 
-## PHP 2 Presentations
+## JavaScript Presentations
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
