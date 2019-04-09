@@ -57,19 +57,20 @@ Channels:
 
 | Lecture | Date | Time | Hall |
 |---------|:------|:-----|:-----|
-| Bootstrap| 6/7.02 | 19.00 | IT Center |
-| Data Base design | 10.02 | 12.30 | IT Center | 
-| Data Base - intro, SQL |  13 | 19.00 | IT Center | 
-| CRUD | 17.02 | 12.30 | IT Center |
-| SQL advanced| 20/21.02 | 19.00 | IT Center |
-| CRUD - How To CRUD related Tables  | 24.02 | 12.30/15.30 | IT Center | 
-| CRUD - Filtering DB results | 27/28.02 | 19.00 | IT Center |
-| SECURITY | 5.03 | 19.00 | IT Center |
-| Lab, File Uploads | 10.03 | 13.30/13.30 | IT Center |
-| Test Preparation | 13.03| 19.00 | IT Center |
-| Test | 17.03 | 13.30-16.30 | IT Center |
-| *** | *** | *** | IT Center |
-| Project Presentation | 24.03 | 13.30-18.30 | IT Center |
+| JS - intro| 10.04 | 19.00 - 21.00 | IT Center |
+| Arrays, loops | 17.04 | 19.00 - 21.00| IT Center | 
+| Functions |  21.04 | 13.30-16.30 | IT Center | 
+| Objects | 24.04 | 19.00 - 21.00| IT Center |
+| CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
+| DOM - intro | 05.06 | 12.30 - 15.30 | IT Center | 
+| DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
+| DOM - events&manipulation | 12.05 | 13.30 - 16.30 | IT Center |
+| jQuery | 15.05 | 19.00 - 21.00 | IT Center |
+| JSON, jQuery - Ajax | 29.05 | 19.00 - 21.00 | IT Center |
+| Lab | 02.06| 13.30 - 16.30 | IT Center |
+| Test Preparation | 05.06 | 19.00 - 21.00 | IT Center |
+| Final Test Preparation | 09.06 | 13.30 - 16.30 | IT Center |
+| Project Presentation | 16.06 | 13.30-18.30 | IT Center |
 
 
 
@@ -83,19 +84,22 @@ Date - Description - Requirements
 
 ## PHP 2 Presentations
 
-| Lecture | Link | Video | Video2 | Repo |
-|---------|:-----|:------|:-----|:-----|
-| Bootstrap | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | [Video](https://www.youtube.com/watch?v=mUW5s3ZX4IY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=22&t=0s) |[Video2](https://youtu.be/WDD4-vqmVHc) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap) |
-| Data Base - design | [Link]() | [Video](https://youtu.be/v3SyNPcqVSQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/02_db_design) |
-| Data Base - intro, SQL | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Slides) | [Video](https://studio.youtube.com/video/Rb5jrIZNUPA/edit) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/03_mysql_db_sql/Tasks) |
-| CRUD | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD/Slides) | [Video](https://youtu.be/xS32qYBR1W0) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/04_CRUD) |
-| SQL advanced| [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced/Slides) | [Video](https://youtu.be/q22RYwZhu58) |*** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/05_SQL_advanced) |
-| CRUD - How To CRUD related tables | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/06_CRUD_related_tables) | [Video](https://youtu.be/fSZ9NWUJLMQ) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/06_CRUD_related_tables)|
-| CRUD - Filtering DB results | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering) | [Video](https://youtu.be/VA0L3NJ35Ig) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/07_Sorting_and_Filtering)|
-| SECURITY | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/08_Security/Slides) | [Video](https://youtu.be/Zhq_Gv46yQo) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/08_Security) |
-| Lab, File Uploads | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/09_Lab_File_upload_download) | [Video](https://youtu.be/0lGKdR49X6U) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/09_Lab_File_upload_download) |
-| Final test preparation | [Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/10_Test_prep) | [Video](https://youtu.be/AvIQkcS6a_g) | *** | [Repo](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/10_Test_prep) |
-
+| Lecture | Link | Video | Repo |
+|---------|:-----|:------|:-----|
+| JS - intro| | | |
+| Arrays, loops | | | |
+| Functions |  | | |
+| Objects |  | | |
+| CSS - advanced selectors|  | | |
+| DOM - intro |  | | | 
+| DOM - events&manipulation |  | | |
+| DOM - events&manipulation |  | | |
+| jQuery |  | | |
+| JSON, jQuery - Ajax |  | | |
+| Lab | | | |
+| Test Preparation |  | | |
+| Final Test Preparation |  | | |
+| Project Presentation |  | | |
 
 
 
