@@ -43,11 +43,11 @@ Channels:
 
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 ## JavaScript
-1. [Links](#javasscript-links)
+1. [Links](#jJavaScript-links)
 2. [Schedule](#JavaScript-schedule)
-3. [Exam](#javasscript-exam)
-4. [Project](#javasscript-project)
-5. [Presentations](#javasscript-presentations)
+3. [Exam](#JavaScript-exam)
+4. [Project](#JavaScript-project)
+5. [Presentations](#JavaScript-presentations)
 6. [Tutorials](#javasscript-tutorials)
 7. [Issues](#javasscriptjavasscriptjavasscript-issues)
 8. [Resources](#javasscriptjavasscript-resources)
