@@ -86,7 +86,7 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| JS - intro| | | |
+| JS - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/02_PHP%26MySQL/01_bootstrap/Slides) | | |
 | Arrays, loops | | | |
 | Functions |  | | |
 | Objects |  | | |
