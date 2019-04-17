@@ -58,9 +58,9 @@ Channels:
 | Lecture | Date | Time | Hall |
 |---------|:------|:-----|:-----|
 | JS - intro| 10.04 | 19.00 - 21.00 | IT Center |
-| Arrays, loops | 17.04 | 19.00 - 21.00| IT Center | 
-| Functions |  21.04 | 13.30-16.30 | IT Center | 
-| Objects | 24.04 | 19.00 - 21.00| IT Center |
+| Arrays, Objects, Loops | 17.04 | 19.00 - 21.00| IT Center | 
+| Arrays, Objects, Loops, Functions |  21.04 | 13.30-16.30 | IT Center | 
+| Functions | 24.04 | 19.00 - 21.00| IT Center |
 | CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
 | DOM - intro | 05.06 | 12.30 - 15.30 | IT Center | 
 | DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
@@ -87,9 +87,9 @@ Date - Description - Requirements
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | JS - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/Slides) |[Video](https://youtu.be/VklXEYFYrog) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/)|
-| Arrays, loops |[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays) | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays)|
+| Arrays, Objects, Loops |[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays) | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays)|
+| Arrays, Objects, Loops, Functions |  | | |
 | Functions |  | | |
-| Objects |  | | |
 | CSS - advanced selectors|  | | |
 | DOM - intro |  | | | 
 | DOM - events&manipulation |  | | |
