@@ -87,7 +87,7 @@ Date - Description - Requirements
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
 | JS - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/Slides) |[Video](https://youtu.be/VklXEYFYrog) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/)|
-| Arrays, loops | | | |
+| Arrays, loops |[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays) | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/02_arrays)|
 | Functions |  | | |
 | Objects |  | | |
 | CSS - advanced selectors|  | | |
