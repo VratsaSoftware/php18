@@ -1,0 +1,7 @@
+task2.1 = SELECT * FROM `packages` WHERE date_deleted=null;
+
+task2.2	= SELECT COUNT(*) FROM `packages` WHERE `duration_id`=1;
+
+task2.3 = SELECT * FROM destinations WHERE destination_name LIKE "A%";
+
+task2.4 = SELECT AVG(`price`) AS AveragePrice FROM packages;

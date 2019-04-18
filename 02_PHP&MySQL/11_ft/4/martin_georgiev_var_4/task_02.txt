@@ -1,0 +1,11 @@
+1.
+SELECT h.hotel_id, h.hotel_name, d.destination_name, h.rooms FROM hotels h JOIN destinations d ON h.destination_id = d.destination_id WHERE h.date_deleted IS NULL AND d.date_deleted IS NULL
+
+2.
+SELECT AVG(rooms) FROM hotels WHERE date_deleted IS NULL
+
+3.
+SELECT p.package_id, p.price, d.duration FROM packages p JOIN durations d ON p.duration_id = d.duration_id WHERE d.duration > 5 AND p.date_deleted IS NULL AND d.date_deleted IS NULL
+
+4.
+SELECT SUM(h.rooms) FROM hotels h JOIN destinations d ON h.destination_id = d.destination_id WHERE d.destination_name LIKE "Bodrum" AND h.date_deleted IS NULL AND d.date_deleted IS NULL

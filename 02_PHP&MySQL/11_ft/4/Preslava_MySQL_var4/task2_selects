@@ -1,0 +1,4 @@
+4.1-SELECT hotels.hotel_id, hotels.hotel_name, hotels.rooms, destinations.destination_name, hotels.date_deleted FROM `hotels` JOIN destinations ON destinations.destination_id = hotels.destination_id WHERE hotels.date_deleted IS NULL
+4.2-SELECT AVG(rooms) FROM `hotels`
+4.3-SELECT packages.package_id, durations.duration FROM packages JOIN durations ON durations.duration_id=packages.duration_id WHERE durations.duration >5
+4.4-SELECT COUNT(`rooms`) FROM `hotels` JOIN destinations ON hotels.destination_id=destinations.destination_id WHERE destinations.destination_name LIKE "Bodrum"
