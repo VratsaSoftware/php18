@@ -1,4 +1,0 @@
-4.1. SELECT `hotel_name` FROM `hotels` WHERE `date_deleted` IS NULL
-4.2. SELECT AVG(`rooms`) FROM `hotels` WHERE `date_deleted` IS NULL
-4.3. SELECT p.package_id FROM packages p JOIN durations d ON p.duration_id = d.duration_id WHERE d.duration > 5
-4.4. SELECT SUM(h.rooms) FROM destinations d JOIN hotels h ON d.destination_id = h.destination_id WHERE d.destination_id = 6

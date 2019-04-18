@@ -1,4 +1,0 @@
-1. SELECT * FROM `packages` WHERE 1
-2. SELECT COUNT(p.package_id) FROM durations d JOIN packages p ON p.duration_id = d.duration_id WHERE d.duration = 7
-3. SELECT * FROM packages p JOIN destinations d ON d.destination_id = p.destination_id WHERE d.destination_name LIKE 'A%'
-4. SELECT AVG(price) FROM packages
