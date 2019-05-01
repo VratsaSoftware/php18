@@ -1,0 +1,125 @@
+div, ul, li {
+	margin: 0;
+	padding: 0;
+}
+
+/*.nav-item {
+	background-color: #DD5959
+}
+
+a {
+	color: #ccc;
+	text-decoration: none
+}
+
+#navbar-mobile {
+	background-color: #2AFD74
+}
+
+#navbar-mobile .navbar-nav li {
+	background-color: #E4F809
+}*/
+
+/*div ul {
+	background-color: #0BC8F1
+}*/
+
+/*div.navbar-wrapper ul {
+	background-color: #10F40A
+}*/
+
+/*div.navbar-wrapper > ul {
+	background-color: #10F40A
+}*/
+
+/*a {
+	color: #493535;
+	text-decoration: none;
+	background-color: #DDEA0E
+}
+
+a:hover {
+	color: #DDEA0E;
+	text-decoration: none;
+	background-color: #493535
+}
+*/
+/*.custom li:first-child {
+	background-color: #5DFA08
+}
+
+.custom li:last-child {
+	background-color: #FC06F9
+}
+
+.custom li:nth-child(2){
+	background-color: #00FDEE
+}
+
+.custom li:first-of-type a {
+	font-size: 30px
+}
+
+.custom li:last-of-type a {
+	font-size: 5px
+}
+
+.custom li:nth-of-type(2) a {
+	font-size: 45px
+}
+
+input[type='text'] {
+	border: 2px solid #123169;
+	border-radius: 3px
+}
+
+input[name='username'] {
+	background-color: #10FA84
+}*/
+
+/*body {
+	font-size: 62.5%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-header {
+	font-size: 2em
+}
+
+ul {
+	font-size: 2em
+}*/
+/*body {
+	font-size: 62.5%;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-header {
+	font-size: 2rem!important
+}
+
+ul {
+	font-size: 2rem
+}
+input {
+	font-size: 10px;
+	font-family: Arial, Helvetica, sans-serif;	
+}*/
+
+li {
+	background-color: #0FFE5E;
+	width: 50px;
+	margin: 10px;
+	/*display: inline-block;*/
+	float: right;	
+	/*float: left;	*/
+}
+
+form {
+	clear: both
+}
+.navbar-header {
+	background: url('index.png') no-repeat -685px -1686px;
+	width: 600px;
+	height: 400px;
+}
