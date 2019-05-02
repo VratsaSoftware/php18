@@ -90,7 +90,7 @@ Date - Description - Requirements
 | Arrays, Objects, Loops |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/02_arrays_objects_loops/Slides) |[Video](https://www.youtube.com/watch?v=VFt9Srth5Tw&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/02_arrays_objects_loops)|
 | Arrays, Objects, Loops, Functions |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides)|[Video1](https://www.youtube.com/watch?v=5Y-Etyb61Js&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=32&t=0s) [Video2](https://www.youtube.com/watch?v=cf-Mg9revrk&feature=youtu.be) |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions)|
 | Functions | [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides) | [Video](https://youtu.be/YC1qthkWJUc)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions) |
-| CSS - advanced selectors|  | | |
+| CSS - advanced selectors|  | [Video](https://youtu.be/OaMCBDgQBYE)| |
 | DOM - intro |  | | | 
 | DOM - events&manipulation |  | | |
 | DOM - events&manipulation |  | | |
