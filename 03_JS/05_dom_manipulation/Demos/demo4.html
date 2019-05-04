@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Static vs. Live NodeList</title>
+</head>
+<body>
+	<ul id="nav">
+		<li>List Item</li>
+		<li>List Item</li>
+		<li>List Item</li>
+		<li>List Item</li>
+	</ul>
+	<script type="text/javascript">
+
+		document.getElementById('nav')
+				.innerHTML = "CHANGED";
+
+	</script>
+</body>
+</html>

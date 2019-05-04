@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Static vs. Live NodeList</title>
+</head>
+<body>
+	<div id="demo">
+		<p>The test paragraph</p>
+	</div>
+	<script type="text/javascript">
+
+		var studentsList 	= document.createElement("ul"),
+			studentLi 		= document.createElement("li"),
+			parent 			= document.getElementById('demo'),
+			testParagraph 	= document.getElementsByTagName('p');
+
+			studentLi.innerHTML = 'I am the only List Item in page'
+			studentsList.appendChild(studentLi);
+
+			// document.body.appendChild(studentsList);
+
+			// appendChild() вмъква елемента винаги в края
+			
+			parent.insertBefore(studentsList, testParagraph[0]);
+
+
+		</script>
+	</body>
+	</html>
