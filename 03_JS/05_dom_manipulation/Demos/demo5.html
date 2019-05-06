@@ -11,14 +11,23 @@
 	<script type="text/javascript">
 
 		var studentsList 	= document.createElement("ul"),
-			studentLi 		= document.createElement("li"),
+			studentLi 		= document.createElement("li");
 			parent 			= document.getElementById('demo'),
 			testParagraph 	= document.getElementsByTagName('p');
 
-			studentLi.innerHTML = 'I am the only List Item in page'
-			studentsList.appendChild(studentLi);
 
-			// document.body.appendChild(studentsList);
+			// console.log(testParagraph[0].innerHTML)
+
+			// console.log(studentLi);
+
+			studentLi.innerHTML = 'I am the only List Item in page';
+			// console.log(studentLi);
+
+			studentsList.appendChild(studentLi);
+			console.log(studentsList);
+
+
+			document.body.appendChild(studentsList);
 
 			// appendChild() вмъква елемента винаги в края
 			
