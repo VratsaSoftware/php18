@@ -62,7 +62,7 @@ Channels:
 | Arrays, Objects, Loops, Functions |  21.04 | 13.30-16.30 | IT Center | 
 | Functions | 24.04 | 19.00 - 21.00| IT Center |
 | CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
-| DOM - intro | 05.06 | 12.30 - 15.30 | IT Center | 
+| DOM - intro | 05.06 | 13.30 - 15.30 | IT Center | 
 | DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
 | DOM - events&manipulation | 12.05 | 13.30 - 16.30 | IT Center |
 | jQuery | 15.05 | 19.00 - 21.00 | IT Center |
@@ -91,7 +91,7 @@ Date - Description - Requirements
 | Arrays, Objects, Loops, Functions |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides)|[Video1](https://www.youtube.com/watch?v=5Y-Etyb61Js&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=32&t=0s) [Video2](https://www.youtube.com/watch?v=cf-Mg9revrk&feature=youtu.be) |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions)|
 | Functions | [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides) | [Video](https://youtu.be/YC1qthkWJUc)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions) |
 | CSS - advanced selectors| [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced/Slides) | [Video](https://youtu.be/OaMCBDgQBYE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced)|
-| DOM - intro |  | | | 
+| DOM - intro |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation/Slides) | [Video](https://youtu.be/Vg4lvmTVbNE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation)|
 | DOM - events&manipulation |  | | |
 | DOM - events&manipulation |  | | |
 | jQuery |  | | |
