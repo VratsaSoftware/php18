@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<button id="btn-to-click">Click Me</button>
+	<script type="text/javascript">
+		var element = document.getElementById('btn-to-click');
+
+		element.onclick = function(event){
+			console.log(event.target)
+			var element = document.body;
+			console.log(element)
+			element.style.cssText = "background-color: #000"; 
+		}
+	</script>
+</body>
+</html>
