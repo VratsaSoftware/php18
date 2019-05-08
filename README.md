@@ -64,7 +64,7 @@ Channels:
 | CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
 | DOM - intro | 05.06 | 13.30 - 15.30 | IT Center | 
 | DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
-| DOM - events&manipulation | 12.05 | 13.30 - 16.30 | IT Center |
+| DOM - events&manipulation, jQuery | 12.05 | 13.30 - 16.30 | IT Center |
 | jQuery | 15.05 | 19.00 - 21.00 | IT Center |
 | JSON, jQuery - Ajax | 29.05 | 19.00 - 21.00 | IT Center |
 | Lab | 02.06| 13.30 - 16.30 | IT Center |
