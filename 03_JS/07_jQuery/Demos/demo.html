@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Selecting Html elements</title>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="crossorigin="anonymous"></script>
+</head>
+<body>
+	<form id="email_form">
+		<label><span><i class="fas fa-envelope-open-text"></i></span></label>
+		<input type="text" name="email_1" id="email_address_1" value="email1@example.com">
+		<label><span><i class="fas fa-envelope"></i></span></label>		
+		<input type="text" name="email_2" id="email_address_2" value="email2@example.com">
+		<input type="submit" name="submit" value="save">
+	</form>
+	<script type="text/javascript">
+		console.log(document.querySelector('#email_form span'));
+		console.log(document.querySelectorAll('#email_form span'));
+		console.log($('input'));
+	</script>
+</body>
+</html>
