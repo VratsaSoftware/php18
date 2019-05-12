@@ -4,7 +4,8 @@
 	<meta charset="UTF-8">
 	<title>Selecting Html elements</title>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="crossorigin="anonymous"></script>
+	<!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="crossorigin="anonymous"></script> -->
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
 </head>
 <body>
 	<form id="email_form">
@@ -15,9 +16,17 @@
 		<input type="submit" name="submit" value="save">
 	</form>
 	<script type="text/javascript">
-		console.log(document.querySelector('#email_form span'));
-		console.log(document.querySelectorAll('#email_form span'));
-		console.log($('input'));
+		// console.log(document.querySelector('#email_form span'));
+		// console.log(document.querySelectorAll('#email_form span'));
+		// console.log($('input'));
+
+		// console.log($('#email_address_1').val())
+
+		// $('#email_address_1').val('demo@example.com')
+		// text()
+
+		console.log($('#email_address_1').attr('id'))
+		console.log($('#email_address_2').prev('input'))
 	</script>
 </body>
 </html>
