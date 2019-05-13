@@ -64,7 +64,7 @@ Channels:
 | CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
 | DOM - intro | 05.06 | 13.30 - 15.30 | IT Center | 
 | DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
-| DOM - events&manipulation, jQuery | 12.05 | 13.30 - 16.30 | IT Center |
+| DOM - events Lab, jQuery | 12.05 | 13.30 - 16.30 | IT Center |
 | jQuery | 15.05 | 19.00 - 21.00 | IT Center |
 | JSON, jQuery - Ajax | 29.05 | 19.00 - 21.00 | IT Center |
 | Lab | 02.06| 13.30 - 16.30 | IT Center |
@@ -93,7 +93,8 @@ Date - Description - Requirements
 | CSS - advanced selectors| [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced/Slides) | [Video](https://youtu.be/OaMCBDgQBYE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced)|
 | DOM - intro |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation/Slides) | [Video](https://youtu.be/Vg4lvmTVbNE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation)|
 | DOM - events&manipulation |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_events/Slides) | [Video](https://youtu.be/sYaWwA9cKbQ)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_events)|
-| jQuery |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)| |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery) |
+| DOM - events lab |[Link]() | [Video](https://youtu.be/4Nu9YgSFJSU)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_events)|
+| jQuery |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)| |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
 | JSON, jQuery - Ajax |  | | |
 | Lab | | | |
 | Test Preparation |  | | |
