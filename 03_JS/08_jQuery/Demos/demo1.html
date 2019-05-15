@@ -18,6 +18,9 @@
 	</form>
 	<script type="text/javascript">
 		var count = 3;
+		function myFunction(){
+			//code here
+		}
 		$('#create-input').on('click', function(e){
 			e.preventDefault();
 			// $('<input type="text" name="email_2" id="email_address_3" value="email3@example.com">')
@@ -35,7 +38,7 @@
 		// 	console.log($(this).val());
 		// });
 
-		$('body').on('click', 'input', function(){
+		$('body').on('input', 'input', function(){
 			console.log($(this).val());
 		})
 	</script>
