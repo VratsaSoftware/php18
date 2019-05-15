@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Selecting Html elements</title>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+	<!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="crossorigin="anonymous"></script> -->
+	<script type="text/javascript" src="jquery-3.4.1.min.js"></script>
+</head>
+<body>
+	<form id="email_form">
+		<label><span><i class="fas fa-envelope-open-text"></i></span></label>
+		<input type="text" name="email_1" id="email_address_1" value="email1@example.com">
+		<label><span><i class="fas fa-envelope"></i></span></label>		
+		<input type="text" name="email_2" id="email_address_2" value="email2@example.com">
+		<a id="create-input"><i class="fas fa-plus"></i></a>
+		<input type="submit" name="submit" value="save">
+	</form>
+	<script type="text/javascript">
+		var count = 3;
+		$('#create-input').on('click', function(e){
+			e.preventDefault();
+			// $('<input type="text" name="email_2" id="email_address_3" value="email3@example.com">')
+					// .appendTo($('#email_form'));
+			// $('#email_form').prepend('<input type="text" name="email_2" id="email_address_3" value="email3@example.com">');
+			$('<input type="text" name="email_'+ count +'" id="email_address_'+ count +'" value="email' + count + '@example.com">')
+			.insertBefore($('#create-input'));
+			count++;
+		});
+
+
+		//static vs dinamic list
+
+		// $('input').on('click', function(){
+		// 	console.log($(this).val());
+		// });
+
+		$('body').on('click', 'input', function(){
+			console.log($(this).val());
+		})
+	</script>
+</body>
+</html>
