@@ -96,7 +96,7 @@ Date - Description - Requirements
 | DOM - events lab |[Link]() | [Video](https://youtu.be/4Nu9YgSFJSU)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07a_events_lab)|
 | jQuery |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/FeEFZHZjml4)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
 | jQuery - events|[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/UCHxcw9gvlU)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
-| jQuery, Lab |  | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
+| jQuery, Lab |  | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/09_jQuery_lab) |
 | JSON, jQuery - Ajax, Lab | | | |
 | Test Preparation |  | | |
 | Final Test Preparation |  | | |
