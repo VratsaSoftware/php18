@@ -69,7 +69,7 @@ Channels:
 | jQuery, Lab | 29.05 | 19.00 - 21.00 | IT Center |
 | JSON, jQuery - Ajax, Lab | 02.06| 13.30 - 16.30 | IT Center |
 | Test Preparation | 05.06 | 19.00 - 21.00 | IT Center |
-| Final Test Preparation | 09.06 | 13.30 - 16.30 | IT Center |
+| Final Test | 09.06 | 13.30 - 16.30 | IT Center |
 | Project Presentation | 16.06 | 13.30-18.30 | IT Center |
 
 
@@ -99,7 +99,7 @@ Date - Description - Requirements
 | jQuery, Lab |  | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/09_jQuery_lab) |
 | JSON, jQuery - Ajax, Lab | | | |
 | Test Preparation |  | | |
-| Final Test Preparation |  | | |
+| Final Test |  | | |
 | Project Presentation |  | | |
 
 
