@@ -66,8 +66,8 @@ Channels:
 | DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
 | DOM - events Lab, jQuery | 12.05 | 13.30 - 16.30 | IT Center |
 | jQuery | 15.05 | 19.00 - 21.00 | IT Center |
-| JSON, jQuery - Ajax | 29.05 | 19.00 - 21.00 | IT Center |
-| Lab | 02.06| 13.30 - 16.30 | IT Center |
+| jQuery, Lab | 29.05 | 19.00 - 21.00 | IT Center |
+| JSON, jQuery - Ajax, Lab | 02.06| 13.30 - 16.30 | IT Center |
 | Test Preparation | 05.06 | 19.00 - 21.00 | IT Center |
 | Final Test Preparation | 09.06 | 13.30 - 16.30 | IT Center |
 | Project Presentation | 16.06 | 13.30-18.30 | IT Center |
@@ -96,8 +96,8 @@ Date - Description - Requirements
 | DOM - events lab |[Link]() | [Video](https://youtu.be/4Nu9YgSFJSU)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07a_events_lab)|
 | jQuery |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/FeEFZHZjml4)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
 | jQuery - events|[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/UCHxcw9gvlU)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
-| JSON, jQuery - Ajax |  | | |
-| Lab | | | |
+| jQuery, Lab |  | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
+| JSON, jQuery - Ajax, Lab | | | |
 | Test Preparation |  | | |
 | Final Test Preparation |  | | |
 | Project Presentation |  | | |
