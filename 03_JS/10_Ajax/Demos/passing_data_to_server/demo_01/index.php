@@ -17,7 +17,6 @@ $result = mysqli_query($conn, $read_query);
 		<?php 
 		if (mysqli_num_rows($result) >0) {
 			while($row = mysqli_fetch_assoc($result)){
-
 				echo '<h1>'. $row['title'].'</h1>';
 				echo '<p>'. $row['content'].'</p>';
 				echo "<hr>";
@@ -38,15 +37,19 @@ $result = mysqli_query($conn, $read_query);
 		function displayPost(e){
 			//!!!!!!!!!!!!IMPORTANT!!!!!!!!!!
 			e.preventDefault();
+			// console.log(1);
 			var title = $('#title').val();
 			var content = $('#content').val();
+			console.log(title,content)
 			$.ajax({				
 				type:'POST',
 				url:'query.php',
 				data:{	title:  	title,
 						content: 	content },						
-				success:function(data){
-						var res = $.parseJSON(data);
+				success:function(response){
+					console.log(response)
+						var res = $.parseJSON(response);
+						console.log(res);
 						var h1 = $('<h1>').text(res.title);						
 						var p = $('<p>').text(res.content);	
 						var hr = $('<hr>');
