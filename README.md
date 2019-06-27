@@ -19,7 +19,7 @@ Groups: [Link](https://docs.google.com/spreadsheets/d/1io_9_z07-AK52bFqosF3X9LNQ
 1. [PHP 1](#php-1)
 2. [PHP 2](#php-2)
 3. [JavaScript](#JavaScript)
-4. [PHP OOP & MVC](#php-oop-and-mvc)
+4. [PHP OOP and MVC](#php-oop-and-mvc)
 
 ## Tutors
 
@@ -42,7 +42,7 @@ Channels:
 `#off-topic` - A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.
 
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
-## PHP OOP & MVC
+## PHP OOP and MVC
 1. [Links](#JavaScript-links)
 2. [Schedule](#JavaScript-schedule)
 3. [Exam](#JavaScript-exam)
@@ -53,7 +53,7 @@ Channels:
 8. [Resources](#javasscriptjavasscript-resources)
 9. [Courses](#javasscript-courses)
 
-## PHP OOP & MVC - Schedule
+## PHP OOP and MVC - Schedule
 
 | Lecture | Date | Time | Hall |
 |---------|:------|:-----|:-----|
