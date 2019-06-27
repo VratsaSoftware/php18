@@ -43,34 +43,23 @@ Channels:
 
 `#resources` - This Channel is for Material/Resources that you find and that can be used in the course.
 ## PHP OOP and MVC
-1. [Links](#JavaScript-links)
-2. [Schedule](#JavaScript-schedule)
-3. [Exam](#JavaScript-exam)
-4. [Project](#JavaScript-project)
-5. [Presentations](#JavaScript-presentations)
-6. [Tutorials](#javasscript-tutorials)
-7. [Issues](#javasscriptjavasscriptjavasscript-issues)
-8. [Resources](#javasscriptjavasscript-resources)
-9. [Courses](#javasscript-courses)
+1. [Links](#php-oop-and-mvc-links)
+2. [Schedule](#php-oop-and-mvc-schedule)
+3. [Exam](#php-oop-and-mvc-exam)
+4. [Project](#php-oop-and-mvc-project)
+5. [Presentations](#php-oop-and-mvc-presentations)
+6. [Tutorials](#php-oop-and-mvc-tutorials)
+7. [Issues](#php-oop-and-mvc-issues)
+8. [Resources](#jphp-oop-and-mvc-resources)
+9. [Courses](#php-oop-and-mvc-courses)
 
 ## PHP OOP and MVC - Schedule
 
 | Lecture | Date | Time | Hall |
 |---------|:------|:-----|:-----|
-| JS - intro| 10.04 | 19.00 - 21.00 | IT Center |
-| Arrays, Objects, Loops | 17.04 | 19.00 - 21.00| IT Center | 
-| Arrays, Objects, Loops, Functions |  21.04 | 13.30-16.30 | IT Center | 
-| Functions | 24.04 | 19.00 - 21.00| IT Center |
-| CSS - advanced selectors| 01.05 | 19.00 - 21.00| IT Center |
-| DOM - intro | 05.06 | 13.30 - 15.30 | IT Center | 
-| DOM - events&manipulation | 08.05 | 19.00 - 21.00 | IT Center |
-| DOM - events Lab, jQuery | 12.05 | 13.30 - 16.30 | IT Center |
-| jQuery | 15.05 | 19.00 - 21.00 | IT Center |
-| jQuery, Lab | 29.05 | 19.00 - 21.00 | IT Center |
-| JSON, jQuery - Ajax, Lab | 02.06| 13.30 - 16.30 | IT Center |
-| Test Preparation | 05.06 | 19.00 - 21.00 | IT Center |
-| Final Test | 09.06 | 13.30 - 16.30 | IT Center |
-| Project Presentation | 16.06 | 13.30-18.30 | IT Center |
+| PHP OOP - intro| 26.06 | 19.00 - 21.00 | IT Center |
+| PHP OOP - inheritance, encapsulation | 30.06 | 13.30 - 16.30| IT Center | 
+| PHP OOP - abstract classes | 11.09 | 19.00 - 21.00| IT Center | 
 
 
 
@@ -86,21 +75,8 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| JS - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/Slides) |[Video](https://youtu.be/VklXEYFYrog) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/)|
-| Arrays, Objects, Loops |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/02_arrays_objects_loops/Slides) |[Video](https://www.youtube.com/watch?v=VFt9Srth5Tw&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/02_arrays_objects_loops)|
-| Arrays, Objects, Loops, Functions |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides)|[Video1](https://www.youtube.com/watch?v=5Y-Etyb61Js&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=32&t=0s) [Video2](https://www.youtube.com/watch?v=cf-Mg9revrk&feature=youtu.be) |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions)|
-| Functions | [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions/Slides) | [Video](https://youtu.be/YC1qthkWJUc)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/03_functions) |
-| CSS - advanced selectors| [Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced/Slides) | [Video](https://youtu.be/OaMCBDgQBYE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/04_css_advanced)|
-| DOM - intro |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation/Slides) | [Video](https://youtu.be/Vg4lvmTVbNE)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_dom_manipulation)|
-| DOM - events&manipulation |[Link](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_events/Slides) | [Video](https://youtu.be/sYaWwA9cKbQ)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/05_events)|
-| DOM - events lab |[Link]() | [Video](https://youtu.be/4Nu9YgSFJSU)| [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07a_events_lab)|
-| jQuery |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/FeEFZHZjml4)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
-| jQuery - events|[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_jQuery/Slides)|[Video](https://youtu.be/UCHxcw9gvlU)|[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/07_events_lab) |
-| jQuery, Lab |  | | [Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/09_jQuery_lab) |
-| JSON, jQuery - Ajax, Lab |[Slides](https://github.com/VratsaSoftware/php18/tree/master/03_JS/10_Ajax/Slides) |[Video](https://youtu.be/v2PJXKG9uDU) |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/10_Ajax) |
-| Test Preparation ||[Slides] |[Video](https://youtu.be/pJB8clWHgaE) |[Repo](https://github.com/VratsaSoftware/php18/tree/master/03_JS/11_test_prep) |
-| Final Test |  | | |
-| Project Presentation |  | | |
+| PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/)|
+
 
 ## JavaScript
 1. [Links](#JavaScript-links)
