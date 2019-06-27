@@ -75,7 +75,7 @@ Date - Description - Requirements
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
-| PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/JS/01_intro/)|
+| PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO)|
 
 
 ## JavaScript
