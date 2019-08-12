@@ -59,6 +59,7 @@ Channels:
 |---------|:------|:-----|:-----|
 | PHP OOP - intro| 26.06 | 19.00 - 21.00 | IT Center |
 | PHP OOP - inheritance, encapsulation | 30.06 | 13.30 - 16.30| IT Center | 
+| * * * * * * * * * * * * * | * * * | * * * * * * * | * * * * * |
 | PHP OOP - abstract classes | 11.09 | 19.00 - 21.00| IT Center | 
 
 
@@ -71,10 +72,11 @@ Date - Duration - Description;
 
 Date - Description - Requirements
 
-## JavaScript Presentations
+## PHP OOP and MVC Presentations
 
 | Lecture | Link | Video | Repo |
 |---------|:-----|:------|:-----|
+| PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO)|
 | PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO)|
 
 
