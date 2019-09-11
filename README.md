@@ -61,6 +61,20 @@ Channels:
 | PHP OOP - inheritance, encapsulation | 30.06 | 13.30 - 16.30| IT Center | 
 | * * * * * * * * * * * * * | * * * | * * * * * * * | * * * * * |
 | PHP OOP - abstract classes | 11.09 | 19.00 - 21.00| IT Center | 
+| PHP OOP | 15.09 | 13.30-16.30| IT Center |
+| PHP OOP | 18.09 | 19.00 - 21.00| IT Center |
+| PHP OOP | 23.09 | 13.30-16.30| IT Center |
+| Laravel, project assignment | 25.09 | 19.00 - 21.00| IT Center |
+| Laravel | 29.09 | 13.30-16.30| IT Center |
+| Laravel | 02.10 | 19.00 - 21.00| IT Center |
+| Laravel | 06.10 | 13.30-16.30| IT Center |
+| Laravel | 09.10 | 19.00 - 21.00| IT Center |
+| Laravel | 13.10 | 13.30-16.30| IT Center |
+| Laravel | 16.10 | 19.00 - 21.00| IT Center |
+| Laravel | 20.10 | 13.30-16.30| IT Center |
+| Laravel - final test preparation | 23.10 | 19.00 - 21.00| IT Center |
+| PHP OOP, Laravel - final test | 27.10 | 13.30-16.30| IT Center |
+| PHP OOP, Laravel - project presentation | 03.11? | 13.30-16.30| IT Center |
 
 
 
