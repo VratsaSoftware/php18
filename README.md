@@ -92,7 +92,6 @@ Date - Description - Requirements
 |---------|:-----|:------|:-----|
 | PHP OOP - intro|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO)|
 | PHP OOP - inheritance, encapsulation|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/02_oop_INHERITANCE/Slides) |[Video](https://www.youtube.com/watch?v=nd_VQuAIdGg) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/02_oop_INHERITANCE)|
-| [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/01_oop_INTRO)|
 | PHP OOP - inheritance, encapsulation|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes/Slides) |[Video](https://youtu.be/GuvfBiHJ_MY) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes)|
 
 
