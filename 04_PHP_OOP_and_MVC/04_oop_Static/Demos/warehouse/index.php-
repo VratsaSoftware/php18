@@ -1,0 +1,25 @@
+<?php 
+
+include 'Document.php';
+include 'Request.php';
+include 'Sale.php';
+
+echo Request::$start_document_number;
+
+Request::$start_document_number = 100;
+echo Request::$start_document_number;
+echo '<p></p>';
+
+$sale_start_num = Sale::$start_document_number = 100000;
+echo $sale_start_num;
+
+Request::set_start_doc_number(200);
+echo Request::$start_document_number;
+
+echo "<p></p>";
+
+$sale_start_num = Sale::set_start_doc_number(200000);
+echo $sale_start_num;
+
+
+
