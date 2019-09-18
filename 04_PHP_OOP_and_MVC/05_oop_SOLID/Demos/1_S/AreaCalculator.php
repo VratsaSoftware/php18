@@ -1,6 +1,6 @@
 <?php 
 
-class AreaCalculator { 
+class AreaSumCalculator { 
  
  	protected $shapes; 
  

@@ -8,11 +8,11 @@ class AreaCalculator {
  		$this->shapes = $shapes;  
  	} 
  
- 	public function sum() {      
+ 	public function sum_areas() {      
  	  
  	  foreach($this->shapes as $shape) {
  	  		if(is_a($shape, 'ShapeInterface')) {
- 	  			$area[] = $shape->area();
+ 	  			$area[] = $shape->calc_area();
  	  		} else {
 				continue;
 			}     
