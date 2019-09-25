@@ -95,7 +95,7 @@ Date - Description - Requirements
 | PHP OOP - abstract classes|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes/Slides) |[Video](https://www.youtube.com/watch?v=GuvfBiHJ_MY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=41&t=2s) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes)|
 | PHP OOP - static|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/04_oop_Static/Slides) |[Video](https://www.youtube.com/watch?v=2QgRyi3tfhI&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/04_oop_Static)|
 |  PHP OOP - S.O.L.I.D.|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID/Slides) |[Video](https://youtu.be/Dk8gJbeouUY) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID)|
-|  PHP OOP - S.O.L.I.D. - lab|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID/Slides) |[Video](https://youtu.be/Dk8gJbeouUY) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID)|
+|  PHP OOP - S.O.L.I.D. - lab|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/06_oop_lab)|
 
 
 ## JavaScript
