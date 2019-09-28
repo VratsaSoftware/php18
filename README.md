@@ -65,7 +65,8 @@ Channels:
 | PHP OOP - S.O.L.I.D.| 18.09 | 19.00 - 21.00| IT Center |
 | PHP OOP | 23.09 | 13.30-16.30| IT Center |
 | PHP OOP - S.O.L.I.D.- lab | 25.09 | 19.00 - 21.00| IT Center |
-| Laravel, project assignment | 29.09 | 13.30-16.30| IT Center |
+| Laravel - MVC and Laravel intro, projects assignment | 29.09 | 13.30-16.30| IT Center |
+| Laravel - controllers, routes, views | 29.09 | 13.30-16.30| IT Center |
 | Laravel | 02.10 | 19.00 - 21.00| IT Center |
 | Laravel | 06.10 | 13.30-16.30| IT Center |
 | Laravel | 09.10 | 19.00 - 21.00| IT Center |
@@ -95,7 +96,9 @@ Date - Description - Requirements
 | PHP OOP - abstract classes|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes/Slides) |[Video](https://www.youtube.com/watch?v=GuvfBiHJ_MY&list=PLQFk-VQC2oBawLCFW13B6Si4SfF7xgpLb&index=41&t=2s) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/03_oop_Abstract_classes)|
 | PHP OOP - static|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/04_oop_Static/Slides) |[Video](https://www.youtube.com/watch?v=2QgRyi3tfhI&feature=youtu.be) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/04_oop_Static)|
 |  PHP OOP - S.O.L.I.D.|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID/Slides) |[Video](https://youtu.be/Dk8gJbeouUY) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/05_oop_SOLID)|
-|  PHP OOP - S.O.L.I.D. - lab|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/06_oop_lab)|
+|  PHP OOP - S.O.L.I.D. - lab|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/06_oop_lab)|
+| Laravel - MVC and Laravel intro, projects assignment|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro)|
+| Laravel - controllers, routes, views|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views)|
 
 
 ## JavaScript
