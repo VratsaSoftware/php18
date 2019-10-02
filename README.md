@@ -67,7 +67,7 @@ Channels:
 | PHP OOP - S.O.L.I.D.- lab | 25.09 | 19.00 - 21.00| IT Center |
 | Laravel - MVC and Laravel intro, projects assignment | 29.09 | 13.30-16.30| IT Center |
 | Laravel - controllers, routes, views | 29.09 | 13.30-16.30| IT Center |
-| Laravel | 02.10 | 19.00 - 21.00| IT Center |
+| Laravel - models, migrations | 02.10 | 19.00 - 21.00| IT Center |
 | Laravel | 06.10 | 13.30-16.30| IT Center |
 | Laravel | 09.10 | 19.00 - 21.00| IT Center |
 | Laravel | 13.10 | 13.30-16.30| IT Center |
@@ -99,6 +99,7 @@ Date - Description - Requirements
 |  PHP OOP - S.O.L.I.D. - lab|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/06_oop_lab)|
 | Laravel - MVC and Laravel intro, projects assignment|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro)|
 | Laravel - controllers, routes, views|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views/Slides) |[Video](https://youtu.be/tveh51KMiNg) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views)|
+| Laravel - models, migrations|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration)|
 
 
 ## JavaScript
