@@ -99,7 +99,7 @@ Date - Description - Requirements
 |  PHP OOP - S.O.L.I.D. - lab|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/06_oop_lab)|
 | Laravel - MVC and Laravel intro, projects assignment|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro)|
 | Laravel - controllers, routes, views|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views/Slides) |[Video](https://youtu.be/tveh51KMiNg) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views)|
-| Laravel - models, migrations|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration)|
+| Laravel - models, migrations|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration/Slides) |[Video](https://youtu.be/Tn83FwKepYM) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration)|
 
 
 ## JavaScript
