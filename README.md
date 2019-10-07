@@ -68,7 +68,7 @@ Channels:
 | Laravel - MVC and Laravel intro, projects assignment | 29.09 | 13.30-16.30| IT Center |
 | Laravel - controllers, routes, views | 29.09 | 13.30-16.30| IT Center |
 | Laravel - models, migrations | 02.10 | 19.00 - 21.00| IT Center |
-| Laravel | 06.10 | 13.30-16.30| IT Center |
+| Laravel - models, eloquent | 06.10 | 13.30-16.30| IT Center |
 | Laravel | 09.10 | 19.00 - 21.00| IT Center |
 | Laravel | 13.10 | 13.30-16.30| IT Center |
 | Laravel | 16.10 | 19.00 - 21.00| IT Center |
