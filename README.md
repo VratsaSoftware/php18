@@ -100,6 +100,7 @@ Date - Description - Requirements
 | Laravel - MVC and Laravel intro, projects assignment|[Link]() |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/07_L1_intro)|
 | Laravel - controllers, routes, views|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views/Slides) |[Video](https://youtu.be/tveh51KMiNg) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views)|
 | Laravel - models, migrations|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration/Slides) |[Video](https://youtu.be/Tn83FwKepYM) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration)|
+| Laravel - models, eloquent|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent) |[Video](https://youtu.be/cuTNliye0F4) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent)|
 
 
 ## JavaScript
