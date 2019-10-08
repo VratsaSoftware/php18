@@ -9,8 +9,9 @@ class LecturesController extends Controller
 {
     public function index()
     {
-    	$module = Module::find(1);
+    	// $module = Module::find(1);
 
-    	return view('lecture', compact('module'));
+    	$modules = Module::all();
+    	return view('lecture', compact('modules'));
     }
 }

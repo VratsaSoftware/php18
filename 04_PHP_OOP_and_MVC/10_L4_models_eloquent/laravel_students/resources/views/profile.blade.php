@@ -1,8 +1,14 @@
-<h1>profile page</h1>
+@extends('layouts.master')
 
-<p> {{ $user->email }} </p>
-<p> {{ $user->name }} </p>
+@section('title', 'Courses')
 
-<p> {{ $user->profile->first_name }}</p>
-<p> {{ $user->profile->last_name }}</p>
+@section('content')
+	<h1>profile page</h1>
+	
+	<p> {{ $user->email }} </p>
+	<p> {{ $user->name }} </p>
+	
+	<p> {{ $user->profile->first_name }}</p>
+	<p> {{ $user->profile->last_name }}</p>
+@endsection
 

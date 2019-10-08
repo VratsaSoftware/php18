@@ -12,4 +12,9 @@ class Lecture extends Model
     {
         return $this->belongsTo('App\Module');
     }
+
+    public function course()
+    {
+    	return $this->belongsTo('App\Course');
+    }
 }

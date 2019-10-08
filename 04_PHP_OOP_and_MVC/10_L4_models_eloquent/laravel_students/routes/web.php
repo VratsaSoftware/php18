@@ -20,4 +20,5 @@ Route::get('/profile', 'ProfileController@index')->name('profile');
 Route::get('/homework', 'HomeworkController@index')->name('homework');
 Route::get('/module', 'ModulesController@index')->name('module');
 Route::get('/lecture', 'LecturesController@index')->name('lecture');
+Route::get('/course', 'CoursesController@index')->name('course');
 

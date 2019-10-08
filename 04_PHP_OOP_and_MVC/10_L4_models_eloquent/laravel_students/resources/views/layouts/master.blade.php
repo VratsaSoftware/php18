@@ -20,10 +20,19 @@
                 <a href="<?php echo route('home') ?>">Home</a>
             </li>
             <li>
-                <a href="{{ route('homework') }}">Homework</a>
+                <a href="{{ route('course') }}">Courses page</a>
+            </li>
+            <li>
+                <a href="{{ route('homework') }}">Homeworks</a>
             </li>
             <li>
                 <a href="{{ route('profile') }}">Profile page</a>
+            </li>
+            <li>
+                <a href="{{ route('module') }}">Modules page</a>
+            </li>           
+            <li>
+                <a href="{{ route('lecture') }}">Lectures page</a>
             </li>
         </ul>
         @yield('content')

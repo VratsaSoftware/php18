@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class AddModuleIdToLecturesTable extends Migration
+class AddCourseIdToModulesTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,9 @@ class AddModuleIdToLecturesTable extends Migration
      */
     public function up()
     {
-        Schema::table('lectures', function (Blueprint $table) {
-            $table->integer('module_id')->unsigned();
-            $table->foreign('module_id')->references('id')->on('modules');
+        Schema::table('modules', function (Blueprint $table) {
+            $table->integer('course_id')->unsigned();
+            $table->foreign('course_id')->references('id')->on('courses');
         });
     }
 
@@ -26,6 +26,8 @@ class AddModuleIdToLecturesTable extends Migration
      */
     public function down()
     {
-        //
+        Schema::table('lctures', function (Blueprint $table) {
+            //
+        });
     }
 }
