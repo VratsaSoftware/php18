@@ -69,13 +69,14 @@ Channels:
 | Laravel - controllers, routes, views | 29.09 | 13.30-16.30| IT Center |
 | Laravel - models, migrations | 02.10 | 19.00 - 21.00| IT Center |
 | Laravel - models, eloquent | 06.10 | 13.30-16.30| IT Center |
-| Laravel | 09.10 | 19.00 - 21.00| IT Center |
+| Laravel - CRUD | 09.10 | 19.00 - 21.00| IT Center |
 | Laravel | 13.10 | 13.30-16.30| IT Center |
 | Laravel | 16.10 | 19.00 - 21.00| IT Center |
 | Laravel | 20.10 | 13.30-16.30| IT Center |
 | Laravel - final test preparation | 23.10 | 19.00 - 21.00| IT Center |
 | PHP OOP, Laravel - final test | 27.10 | 13.30-16.30| IT Center |
-| PHP OOP, Laravel - project presentation | 03.11? | 13.30-16.30| IT Center |
+| PHP OOP, Laravel - project presentation | 03.11 | 13.30-16.30| IT Center |
+
 
 
 
@@ -101,6 +102,8 @@ Date - Description - Requirements
 | Laravel - controllers, routes, views|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views/Slides) |[Video](https://youtu.be/tveh51KMiNg) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/08_L2_controllers_routes_views)|
 | Laravel - models, migrations|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration/Slides) |[Video](https://youtu.be/Tn83FwKepYM) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/09_L3_models_migration)|
 | Laravel - models, eloquent|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent) |[Video](https://youtu.be/cuTNliye0F4) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent)|
+| Laravel - CRUD|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/Slides) |[Video](https://youtu.be/cuTNliye0F4) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/laravel_students)|
+
 
 
 ## JavaScript
