@@ -20,7 +20,7 @@
                 <a href="<?php echo route('home') ?>">Home</a>
             </li>
             <li>
-                <a href="{{ route('course') }}">Courses page</a>
+                <a href="{{ route('courses.index') }}">Courses page</a>
             </li>
             <li>
                 <a href="{{ route('homework') }}">Homeworks</a>
