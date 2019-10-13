@@ -41,7 +41,12 @@ class ModulesController extends Controller
      */
     public function store(Request $request)
     {
-        dd($request);
+        Module::create([
+                    'name' => $request->module_name, 
+                    'course_id' => $request->course_id]);
+
+        return redirect()->route('modules.index')
+                ->withMessage('Module created successfully');
     }
 
     /**
@@ -62,8 +67,12 @@ class ModulesController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function edit($id)
-    {
-        //
+    {   
+        $module = Module::find($id);
+        $courses = Course::all();
+        $courses_arr = $courses->pluck('name', 'id');
+
+       return view('modules.edit', compact('courses_arr', 'module'));
     }
 
     /**

@@ -3,11 +3,11 @@
 @section('title', 'Course Edit')
 
 @section('content')
-<form method="POST" action="{{ route('courses.update', $course->id) }}">
-	{{ csrf_field() }}
-	{{ method_field('PUT')}}
-	<label>Course name</label>
-	<input type="text" name="course_name" value="{{ $course->name }}">
-	<input type="submit" name="submit" value="create" class="btn btn-success">
-</form>
+{!! Form::model($module, ['route' => ['modules.update', $module->id]]) !!}	
+	<label>module name</label>
+{!! Form::text('module_name', $module->name, ['placeholder'=>'module name here', 'class'=>'form-control']) !!}
+<label>Course</label>
+{!! Form::select('course_id', $courses_arr, $module->course->id) !!}
+{!! Form::submit('Click Me!', ['class'=> 'btn btn-success']) !!}
+{!! Form::close() !!}
 @endsection

@@ -3,7 +3,6 @@
 @section('title', 'modules Create')
 
 @section('content')
-<form method="POST" action="{{ route('modules.store') }}">
 {!! Form::open(['route' => ['modules.store']]) !!}	
 	<label>module name</label>
 {!! Form::text('module_name', old('module_name'), ['placeholder'=>'module name here', 'class'=>'form-control']) !!}
