@@ -4,9 +4,10 @@
 
 @section('content')
 <form method="POST" action="{{ route('courses.store') }}">
-	{{ csrf_field() }}
+{!! Form::open(['route' => ['courses.store']]) !!}	
 	<label>Course name</label>
-	<input type="text" name="course_name">
-	<input type="submit" name="submit" value="create" class="btn btn-success">
-</form>
+{!! Form::text('course_name',null, ['placeholder'=>'course name here', 'class'=>'form-control']) !!}
+
+{!! Form::submit('Click Me!', ['class'=> 'btn btn-success']) !!}
+{!! Form::close() !!}
 @endsection
