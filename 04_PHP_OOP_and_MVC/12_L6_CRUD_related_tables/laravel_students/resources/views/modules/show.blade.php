@@ -5,7 +5,8 @@
 @section('content')
 
 
-	<p>{{ $course->name }}</p>
+	<p>{{ $module->name }}</p>
+	<p>course: {{ $module->course->name }}</p>
 			
-<a href="{{ route('courses.edit', $course->id ) }}">Edit Course</a>
+<a href="{{ route('modules.edit', $module->id ) }}">Edit Module</a>
 @endsection

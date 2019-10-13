@@ -57,7 +57,9 @@ class ModulesController extends Controller
      */
     public function show($id)
     {
-        //
+       $module = Module::find($id);
+
+       return view('modules.show', compact('module'));
     }
 
     /**
@@ -84,7 +86,12 @@ class ModulesController extends Controller
      */
     public function update(Request $request, $id)
     {
-        //
+        $module = Module::find($id);
+        $module->update([
+                    'name' => $request->module_name, 
+                    'course_id' => $request->course_id]);
+        return redirect()->route('modules.index')
+                ->withMessage('Module updated successfully');
     }
 
     /**
@@ -95,6 +102,10 @@ class ModulesController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $module = Module::find($id);
+
+        $module->delete();
+        return redirect()->route('modules.index')
+                ->withMessage('Module deleted!');
     }
 }
