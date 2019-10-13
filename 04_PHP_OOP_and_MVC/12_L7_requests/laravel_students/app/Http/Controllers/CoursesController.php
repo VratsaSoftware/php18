@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Course;
 use Illuminate\Http\Request;
+use App\Http\Requests\CourseCreateRequest;
+use App\Http\Requests\CourseUpdateRequest;
 
 class CoursesController extends Controller
 {
@@ -35,7 +37,7 @@ class CoursesController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(CourseCreateRequest $request)
     {
        Course::create([
         'name' => $request->course_name,
@@ -80,15 +82,17 @@ class CoursesController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(CourseUpdateRequest $request, $id)
     {
         // dd($request);
         $course = Course::find($id);
         $course->update([
             'name' => $request->course_name
         ]);
-        return redirect()->route('courses.index')
-                ->withMessage('Course updated successfully');
+        $request->session()->flash('message', 'Course updated successfully');
+        return redirect()->route('courses.index');
+        // return redirect()->route('courses.index')
+                // ->withMessage('Course updated successfully');
     }
 
     /**

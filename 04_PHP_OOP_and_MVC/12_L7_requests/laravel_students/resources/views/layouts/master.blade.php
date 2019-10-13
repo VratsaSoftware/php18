@@ -29,7 +29,7 @@
                 <a href="{{ route('profile') }}">Profile page</a>
             </li>
             <li>
-                <a href="{{ route('module') }}">Modules page</a>
+                <a href="{{ route('modules.index') }}">Modules page</a>
             </li>           
             <li>
                 <a href="{{ route('lecture') }}">Lectures page</a>

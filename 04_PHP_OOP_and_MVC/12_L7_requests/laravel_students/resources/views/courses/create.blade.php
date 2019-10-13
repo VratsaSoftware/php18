@@ -3,10 +3,15 @@
 @section('title', 'Courses Create')
 
 @section('content')
-<form method="POST" action="{{ route('courses.store') }}">
-	{{ csrf_field() }}
+{!! Form::open(['route' => ['courses.store']]) !!}	
 	<label>Course name</label>
-	<input type="text" name="course_name">
-	<input type="submit" name="submit" value="create" class="btn btn-success">
-</form>
+{!! Form::text('course_name', old('course_name'), ['placeholder'=>'course name here', 'class'=>'form-control']) !!}
+@if($errors->has('course_name'))
+	<div class="col-sm-8 col-sm-offset-1 text-danger">
+		{{ $errors->first('course_name') }} 
+	</div>
+@endif
+
+{!! Form::submit('Click Me!', ['class'=> 'btn btn-success']) !!}
+{!! Form::close() !!}
 @endsection

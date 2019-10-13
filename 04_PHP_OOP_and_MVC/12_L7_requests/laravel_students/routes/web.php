@@ -23,4 +23,5 @@ Route::get('/lecture', 'LecturesController@index')->name('lecture');
 // Route::get('/course', 'CoursesController@index')->name('course');
 
 Route::resource('courses', 'CoursesController');
+Route::resource('modules', 'ModulesController');
 
