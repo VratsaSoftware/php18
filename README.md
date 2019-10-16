@@ -104,6 +104,8 @@ Date - Description - Requirements
 | Laravel - models, eloquent|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent) |[Video](https://youtu.be/cuTNliye0F4) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/10_L4_models_eloquent)|
 | Laravel - CRUD, p1|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/Slides) |[Video](https://www.youtube.com/embed/) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/laravel_students)|
 | Laravel - CRUD p2, requests|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/Slides) |[Video](https://youtu.be/MBgQVKj3Lck) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/laravel_students)|
+| Laravel - Middleware|[Link](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/) |[Video](https://youtu.be/y0ZJphK0euQ) | [Repo](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/laravel_students_v6)|
+
 
 
 
