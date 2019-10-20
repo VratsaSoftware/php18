@@ -22,9 +22,16 @@ Route::group(['middleware' => 'auth'], function(){
 	Route::resource('courses', 'CoursesController')->only([
     	'index', 'show'
 			]);
+	Route::resource('lectures', 'LecturesController')->only([
+    	'index', 'show'
+			]);
+	Route::resource('homeworks', 'HomeworksController');
 	
 	Route::group(['middleware' => 'role'], function(){
 		Route::resource('courses', 'CoursesController')->except([
+    	'index', 'show'
+			]);
+		Route::resource('lectures', 'LecturesController')->except([
     	'index', 'show'
 			]);
 	});
