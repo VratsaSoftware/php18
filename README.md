@@ -71,8 +71,8 @@ Channels:
 | Laravel - models, eloquent | 06.10 | 13.30-16.30| IT Center |
 | Laravel - CRUD | 09.10 | 19.00 - 21.00| IT Center |
 | Laravel - requests | 13.10 | 13.30-16.30| IT Center |
-| Laravel | 16.10 | 19.00 - 21.00| IT Center |
-| Laravel | 20.10 | 13.30-16.30| IT Center |
+| Laravel - middlewares | 16.10 | 19.00 - 21.00| IT Center |
+| Laravel - working with files | 21.10 | 13.30-16.30| IT Center |
 | Laravel - final test preparation | 23.10 | 19.00 - 21.00| IT Center |
 | PHP OOP, Laravel - final test | 27.10 | 13.30-16.30| IT Center |
 | PHP OOP, Laravel - project presentation | 03.11 | 13.30-16.30| IT Center |
@@ -105,6 +105,7 @@ Date - Description - Requirements
 | Laravel - CRUD, p1|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/Slides) |[Video](https://www.youtube.com/embed/) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/11_L5_CRUD/laravel_students)|
 | Laravel - CRUD p2, requests|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/Slides) |[Video](https://youtu.be/MBgQVKj3Lck) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/laravel_students)|
 | Laravel - Middleware|[Link](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/Slides) |[Video](https://youtu.be/y0ZJphK0euQ) | [Repo](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/laravel_students_v6)|
+| Laravel - Files|[Link](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/Slides) |[Video]() | [Repo](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/laravel_students_v6)|
 
 
 
