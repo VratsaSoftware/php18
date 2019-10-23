@@ -106,7 +106,7 @@ Date - Description - Requirements
 | Laravel - CRUD p2, requests|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/Slides) |[Video](https://youtu.be/MBgQVKj3Lck) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/12_L7_requests/laravel_students)|
 | Laravel - Middleware|[Link](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/Slides) |[Video](https://youtu.be/y0ZJphK0euQ) | [Repo](https://github.com/VratsaSoftware/php18/tree/home/04_PHP_OOP_and_MVC/13_L8_middleware/laravel_students_v6)|
 | Laravel - Files|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/14_L8_files/Slides) |[Video](https://youtu.be/XxS44QTE6rI) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/14_L8_files)|
-| Laravel - Final test prep|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/15_L9_final_test/final_test_sample) |[Video](https://youtu.be/XxS44QTE6rI) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/15_L9_final_test_prep/)|
+| Laravel - Final test prep|[Link](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/15_L9_final_test_prep/final_test_sample) |[Video](https://youtu.be/XxS44QTE6rI) | [Repo](https://github.com/VratsaSoftware/php18/tree/master/04_PHP_OOP_and_MVC/15_L9_final_test_prep/)|
 
 
 
