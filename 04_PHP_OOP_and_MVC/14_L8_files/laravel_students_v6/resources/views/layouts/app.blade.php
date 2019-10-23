@@ -42,11 +42,14 @@
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('lectures.index') }}">Lectures</a>
                         </li> 
+                        @guest
+                        @else 
                         @if( Auth::user()->role == 'plain')
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('homeworks.index') }}">Homeworks</a>
                         </li>   
-                        @endif                     
+                        @endif  
+                        @endguest                   
                     </ul>
 
                     <!-- Right Side Of Navbar -->

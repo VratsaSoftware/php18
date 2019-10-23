@@ -41,11 +41,14 @@ class HomeworksController extends Controller
     public function store(Request $request)
     {
 
+//dd($request);
         $file = $request->file('homework');
+
         $filename = $file->getClientOriginalName();
         // dd($request->file('homework'));
         $file->move('hw_files', $filename);
 
+       // $lecture_id = request('lecture_id');
         $lecture_id = $request->lecture_id;
 
         Homework::create([
@@ -91,6 +94,7 @@ class HomeworksController extends Controller
     public function update(Request $request, $id)
     {
         $homework = Homework::find($id);
+        
         $file_to_replace = $homework->filename;
         //find old file
         // $file_to_delete = public_path().'/files_folder_name/'.$filename;
@@ -120,6 +124,7 @@ class HomeworksController extends Controller
     {
         //delete file assosiated with current homework!!!
         $homework = Homework::find($id);
+        
         $filename = $homework->filename;
         //find file
         // $file_to_delete = public_path().'/files_folder_name/'.$filename;

@@ -43,11 +43,14 @@
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo e(route('lectures.index')); ?>">Lectures</a>
                         </li> 
+                        <?php if(auth()->guard()->guest()): ?>
+                        <?php else: ?> 
                         <?php if( Auth::user()->role == 'plain'): ?>
                         <li class="nav-item">
                             <a class="nav-link" href="<?php echo e(route('homeworks.index')); ?>">Homeworks</a>
                         </li>   
-                        <?php endif; ?>                     
+                        <?php endif; ?>  
+                        <?php endif; ?>                   
                     </ul>
 
                     <!-- Right Side Of Navbar -->
